@@ -1,0 +1,4 @@
+mafundishoApp
+Developer: woBIt
+Version: 1.0
+

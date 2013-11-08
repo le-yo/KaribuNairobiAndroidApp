@@ -1,0 +1,55 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mafundishoapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+   
+
+    <application
+        android:icon="@drawable/church"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".MainMenu"
+            android:label="@string/title_activity_main_menu" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Introduction" >
+        </activity>
+        <activity android:name=".Sacraments" >
+        </activity>
+        <activity android:name=".Prayers" >
+        </activity>
+        <activity android:name=".ChristianInitiationSacraments" >
+        </activity>
+        <activity android:name=".Sacraments_of_Healing" >
+        </activity>
+        <activity android:name=".ServiceofCommunionSacraments" >
+        </activity>
+        <activity android:name=".FiveTypesofPrayers" >
+        </activity>
+        <activity android:name=".CommonPrayers" >
+        </activity>
+        <activity android:name=".Questions" >
+        </activity>
+        <activity android:name=".Commandments" >
+        </activity>
+        <activity android:name=".Creed" >
+        </activity>
+        <activity android:name=".FeedbackActivity"></activity>
+
+        <uses-library android:name="com.google.android.maps" />
+        <activity android:name=".Parish"></activity>
+        <activity android:name=".ParishItemizedOverlay"></activity>
+        <activity android:name=".ParishDirection"></activity>
+        <activity android:name= ".About"></activity>
+    </application>
+
+</manifest>

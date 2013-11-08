@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ede275"
+    android:orientation="vertical" >
+
+    <!-- Header -->
+
+    <include layout="@layout/header" />
+    
+    <ImageView 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"  
+    android:id="@+id/ImageView01"
+    android:background="@drawable/hilton"
+    ></ImageView>
+
+   	<Button 
+		android:id="@+id/btncall" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:text="Description"
+		android:onClick="clickdescription"
+		>
+		</Button>
+		<Button 
+		android:id="@+id/btnmap" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:text="Map"
+		android:onClick="viewmap"
+		>
+		</Button>
+		
+	   <Button 
+		android:id="@+id/btnwebsite" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:text="Contact"
+		android:onClick="clickwebsite"
+		>
+		</Button>
+    
+
+
+
+</LinearLayout>

@@ -1,0 +1,160 @@
+<resources>
+
+    <string name="app_name">KaribuNairobi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_menu">Karibu Nairobi</string>
+    <string name="whataboutTitle">Karibu Nairobi | Welcome to Nairobi</string>
+    <string name="FeedbackActivityTitle">Feedback</string>
+    <string name="introTitle">Introduction</string>
+    <string name="sacramentsTitle">Sacraments</string>
+    <string name="prayersTitle"> Prayers</string>
+    <string name="quetionsTitle">Questions</string>
+    <string name="commandmentsTitle">Commandments</string>
+    <string name="creedTitle">Apostle\'s Creed</string>
+    <string name="parishTitle">Parish</string>
+    <string name="aboutTitle">About</string>
+    <string name="ChristianInitiationSacraments">Christian Initiation Sacraments</string>
+    <string name="SacramentsofHealing"> Sacraments of Healing</string>
+    <string name="ServiceofCommunionSacraments">Service of Communion Sacraments</string>
+    <string name="fivetypesofprayers">	    THANKSGIVING\nn
+	    Giving God the thanks He deserves.\n
+	    We were created and redeemed by Him yet He continues to bless us and love us. \nn
+	    The greatest expression of thanksgiving should be after one receives the Eucharist.\n\n
+	    
+	    PETITION\n
+	    This is probably the most common type of prayer. We bring our requests before God for ourselves, our family, or our friends.\n
+	    While we can pray anywhere the greatest prayers are those before the Eucharist, where the veil between Heaven and earth is at its thinnest.\n\n
+	    
+	    PERSEVERING PRAYER\n
+	    These are the prayers for the deepest intentions of our heart.\n\n
+	    
+	    INTERSESSION\n
+	    Similar to those of petition, but there is a distinct difference.\n
+	    In prayers of intercession we are asking praying for others.\n
+	    We can ask these servants of God already in Heaven to pray for us just as we ask our friends on earth to pray for us.\n\n
+	    
+	    MEDITATIVE PRAYER\n
+	    The most simple of prayers. We don\'t say anything,we simply meditate on God\'s love and mercy. \n
+	    Very common in those quiet moments of Eucharistic Adoration. Just being one with Our Lord is the greatest gift.</string>
+    <string name="commonprayers">	    THE LORDS\'S PRAYER:\n
+	    Our Father, who art in heaven, hallowed be Thy Name,Thy kingdom come, Thy will be done on earth as it is in heaven.\n
+	    Give us this day our daily bread;forgive us our trespasses as we forgive those who trespass against us; \n
+	    and lead us not into temptation but deliver us from evil.Amen\n\n
+	    
+	    HAIL MARY,\n
+	    full of grace.Our Lord is with you.Blessed are you among women,and blessed is the fruit of your womb,Jesus.\n
+	    Holy Mary, Mother of God,pray for us sinners,now and at the hour of our death.Amen. \n\n
+	    
+	    GRACE BEFORE MEALS\n
+	    Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord. Amen.\n\n
+	    
+	    GRACE AFTER MEALS\n
+	    We give you thanks,Almighty God,for these and all your benefits,who lives and reigns for ever and ever.Amen\n\n
+	    
+	    THE ANGELUS\n
+	    V- The Angel of the Lord declared unto Mary.\n
+		R- And she conceived by the Holy Spirit.\n
+		(Hail Mary....)\n
+		V- Behold the handmaid of the Lord.\n
+		R- Be it done unto me according to thy word.\n
+		(Hail Mary....)\n
+		V- And the Word was made Flesh.\n
+		R- And dwelt among us.\n
+		(Hail Mary....)\n
+		V- Pray for us, O Holy Mother of God.\n
+		R- That we may be made worthy of the promises of Christ.\n
+		LET US PRAY:\n
+		Pour forth, we beseech Thee, O Lord, Thy grace into our hearts;\n
+		that, we to whom the Incarnation of Christ, Thy Son,\n
+		was made known by the message of an Angel,\n
+		may by His Passion and Cross,\n
+		be brought to the glory of His Resurrection\n
+		through the same Christ our Lord. Amen. \n</string>
+    <string name="questions">    Q. 1. What rule has God given to direct us how we may glorify and enjoy him?\n
+    A. The word of God, which is contained in the scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy him.\n\n
+    
+    Q. 2. What is God?\n
+    A. God is a spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness and truth.\n\n
+    
+    Q. 3. Are there more Gods than one?\n
+    A. There is but one only, the living and true God.\n\n
+    
+    Q. 4. How many persons are there in the godhead?\n
+    A. There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.\n\n
+    
+    Q. 5. What are the decrees of God?\n
+    A. The decrees of God are his eternal purpose, according to the counsel of his will, whereby, for his own glory, he hath foreordained whatsoever comes to pass.\n\n
+    
+    Q. 6. How does God execute his decrees?\n
+    A. God executeth his decrees in the works of creation and providence.\n\n
+    
+    Q. 7. What is the work of creation?\n
+    A. The work of creation is God\'s making all things of nothing, by the word of his power, in the space of six days, and all very good.\n\n
+    
+    Q. 8. How did God create man?\n
+    A. God created man male and female, after his own image, in knowledge, righteousness and holiness, with dominion over the creatures.\n\n
+    
+    Q. 9. What is sin?\n
+    A. Sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods.\n\n
+    
+    Q. 10.What are the different kinds of Sins?\n
+    A. fornication, impurity, licentiousness, idolatry, sorcery, enmity, strife, jealousy, anger, selfishness, dissension, factions, envy, drunkenness, carousing, and the like.\n\n
+    
+    Q. 11. What was the sin whereby our first parents fell from the estate wherein they were created?\n
+    A.  The sin whereby our first parents fell from the estate wherein they were created was their eating the forbidden fruit.\n\n
+    
+    Q. 12. Which is the first commandment?\n
+    A. The first commandment is, Thou shalt have no other gods before me.\n\n
+    
+    Q. 13. What is forbidden in the third commandment?\n
+    A. The third commandment forbiddeth all profaning or abusing of anything whereby God maketh himself known.\n\n
+    
+    Q. 14. What is baptism?\n
+    A. Baptism is a sacrament, wherein the washing with water in the name of the Father, and of the Son, and of the Holy Ghost, doth signify and seal our ingrafting into Christ, and partaking of the benefits of the covenant of grace, and our engagement to be the Lord\'s.\n\n
+    
+    Q. 15. What is prayer?\n
+    A. Prayer is an offering up of our desires unto God, for things agreeable to his will, in the name of Christ, with confession of our sins, and thankful acknowledgment of his mercies.\n\n
+    
+    Q. 16. What the seven gifts of the Holy Spirit?\n
+    A. Wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord.\n\n
+    
+    Q. 17. What are the fruits of the Holy Spirit?\n
+    A. charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness, modesty, self-control, chastity.</string>
+
+    <string name = "commandments">
+        1.I am the Lord your God, who brought you out of the land of Egypt, out of the house of bondage. You shall have no other gods before Me.\n
+        2.You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; you shall not bow down to them nor serve them. For I, the Lord your God, am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generations of those who hate Me, but showing mercy to thousands, to those who love Me and keep My Commandments.\n
+        3.You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes His name in vain.\n
+        4.Remember the Sabbath day, to keep it holy.\n
+        5.Honor your father and your mother, that your days may be long upon the land which the Lord your God is giving you.\n
+        6.You shall not murder.\n
+        7.You shall not commit adultery.\n
+        8.You shall not steal.\n
+        9.You shall not bear false witness against your neighbor.\n
+        10.You shall not covet your neighbor\'s house; you shall not covet your neighbor\'s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor\'s.
+    </string>
+    <string name="creed">
+        I believe in God the Father almighty, creator of heaven and earth.\n
+        I believe in Jesus Christ, his only Son, our Lord.\n
+        He was conceived by the power of the Holy Spirit and born of the Virgin Mary\n
+        Under Pontius Pilate He was crucified, died, and was buried.\n
+        He descended to the dead.\n
+        On the third day he rose again.\n
+        He ascended into heaven and is seated at the right hand of the Father.\n
+        He will come again to judge the living and the dead.\n\n
+        
+        I believe in the Holy Spirit, \n
+        the holy catholic Church, \n
+        the communion of saints, \n
+        the forgiveness of sins, \n
+        the resurrection of the body,\n
+        and the life everlasting. \n
+        Amen.
+    </string>
+	<string name = "about">
+	    KaribuNairobi\n
+        Developer: Sharon\n
+        Version: 1.0\n
+	</string>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  
+     android:background="@drawable/nai"
+    android:orientation="vertical" >
+
+    <!-- Included header.xml here -->
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/header"
+        android:layout="@layout/header" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+       
+        android:padding="6dip" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             
+            android:orientation="horizontal" >
+
+          <!--   <Button
+                android:id="@+id/btn_intro"
+                style="@style/HomeButton"
+                android:background="#ede275"
+                android:drawableTop="@drawable/start"
+                android:onClick="onButtonClicker"
+                android:text="@string/introTitle"
+                android:textColorHighlight="#808080" />
+
+            <Button
+                android:id="@+id/btn_sacraments"
+                style="@style/HomeButton"
+                android:background="#ede275"
+                android:drawableTop="@drawable/bread1"
+                android:onClick="onButtonClicker"
+                android:text="@string/sacramentsTitle" /> -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_prayers"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/prayer"
+                android:onClick="onButtonClicker"
+                android:text="@string/prayersTitle" />
+
+            <Button
+                android:id="@+id/btn_questions"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/question"
+                android:onClick="onButtonClicker"
+                android:text="@string/quetionsTitle" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_comm"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/commandments"
+                android:onClick="onButtonClicker"
+                android:text="@string/commandmentsTitle" />
+
+            <Button
+                android:id="@+id/btn_creed"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/ac"
+                android:onClick="onButtonClicker"
+                android:text="@string/creedTitle" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_parish"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/maps_alt"
+                android:onClick="onButtonClicker"
+                android:text="@string/parishTitle" />
+
+            <Button
+                android:id="@+id/btn_about"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/info"
+                android:onClick="onButtonClicker"
+                android:text="@string/aboutTitle" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
