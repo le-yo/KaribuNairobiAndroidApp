@@ -3,13 +3,13 @@ package com.karibunairobi;
 /**
  * Store information about a car.
  */
-public class Car {
+public class ListItems {
 	private String make;
 	private int year;
 	private int iconID;
 	private String condition;
 	
-	public Car(String make, int iconID, String condition) {
+	public ListItems(String make, int iconID, String condition) {
 		super();
 		this.make = make;
 		//this.year = year;
