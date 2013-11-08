@@ -2,20 +2,26 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="#ede275"
+    android:background="@drawable/hiltonbg" 
     android:orientation="vertical" >
 
     <!-- Header -->
 
     <include layout="@layout/header" />
     
-    <ImageView 
+ <!--    <ImageView 
     android:layout_width="wrap_content" 
     android:layout_height="wrap_content"  
     android:id="@+id/ImageView01"
     android:background="@drawable/hilton"
-    ></ImageView>
-
+    ></ImageView> -->
+<LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingTop="70dip"
+        android:padding="30dip" >
    	<Button 
 		android:id="@+id/btncall" 
 		android:layout_width="fill_parent" 
@@ -43,6 +49,6 @@
 		</Button>
     
 
-
+</LinearLayout>
 
 </LinearLayout>

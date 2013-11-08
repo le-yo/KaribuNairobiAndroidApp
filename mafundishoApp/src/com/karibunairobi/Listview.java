@@ -132,8 +132,8 @@ public class Listview extends Activity {
 			makeText.setText(currentCar.getMake());
 
 			// Year:
-			TextView yearText = (TextView) itemView.findViewById(R.id.item_txtYear);
-			yearText.setText("" + currentCar.getYear());
+			//TextView yearText = (TextView) itemView.findViewById(R.id.item_txtYear);
+			//yearText.setText("" + currentCar.getYear());
 			
 			// Condition:
 			//TextView condionText = (TextView) itemView.findViewById(R.id.item_txtCondition);

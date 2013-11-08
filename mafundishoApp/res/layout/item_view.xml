@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    android:layout_height="match_parent"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+     >
 
     <ImageView
         android:id="@+id/item_icon"
@@ -23,14 +26,14 @@
         android:text="Condition shown here"
         android:textAppearance="?android:attr/textAppearanceMedium" /> -->
 
-    <TextView
+ <!--    <TextView
         android:id="@+id/item_txtYear"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/item_icon"
         android:layout_alignLeft="@+id/item_txtMake"
         android:layout_marginBottom="16dp"
-        android:text="5 star" />
+        android:text="5 star" /> -->
 
     <TextView
         android:id="@+id/item_txtMake"
@@ -38,6 +41,8 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/item_txtCondition"
         android:layout_toRightOf="@+id/item_icon"
+        android:paddingLeft="25dp"
+        android:paddingTop="25dp"
         android:text="Hilton"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
