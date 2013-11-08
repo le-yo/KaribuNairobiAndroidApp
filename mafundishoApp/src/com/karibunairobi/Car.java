@@ -9,10 +9,10 @@ public class Car {
 	private int iconID;
 	private String condition;
 	
-	public Car(String make, int year, int iconID, String condition) {
+	public Car(String make, int iconID, String condition) {
 		super();
 		this.make = make;
-		this.year = year;
+		//this.year = year;
 		this.iconID = iconID;
 		this.condition = condition;
 	}

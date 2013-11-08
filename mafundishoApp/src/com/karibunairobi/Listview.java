@@ -33,13 +33,22 @@ public class Listview extends Activity {
 		registerClickCallback();
 	}
 	private void populateCarList() {
-		myCars.add(new Car("Hilton", 1940, R.drawable.hilton, "Needing work"));
-		myCars.add(new Car("Toyota", 1994, R.drawable.heart, "Lovable"));
-		myCars.add(new Car("Honda", 1999, R.drawable.fish, "Wet"));
-		myCars.add(new Car("Porche", 2005, R.drawable.lightning, "Fast!"));
-		myCars.add(new Car("Jeep", 200, R.drawable.star, "Awesome"));
-		myCars.add(new Car("Rust-Bucket", 2010, R.drawable.down, "Not *very* good"));
-		myCars.add(new Car("Moon Lander", 1971, R.drawable.up, "Out of this world"));
+		myCars.add(new Car("Hilton", R.drawable.hilton, "Needing work"));
+		myCars.add(new Car("Nairobi Serena", R.drawable.serena, "Lovable"));
+		myCars.add(new Car("Nairobi Safari Club", R.drawable.safariclub, "Wet"));
+		myCars.add(new Car("Laico Regency", R.drawable.laicoregency, "Fast!"));
+		myCars.add(new Car("Fairmont The Norfolk", R.drawable.fairmont, "Awesome"));
+		myCars.add(new Car("Panari", R.drawable.panari, "Not *very* good")); 
+		myCars.add(new Car("Ole Sereni", R.drawable.olesereni, "Out of this world"));
+		myCars.add(new Car("The Giraffe Manor", R.drawable.giraffemanor, "Out of this world"));
+		myCars.add(new Car("Mokoyeti Resort", R.drawable.mokoyetiresort, "Out of this world"));
+		myCars.add(new Car("Java House", R.drawable.javahouse, "Out of this world"));
+		myCars.add(new Car("The Thorn Tree Cafe", R.drawable.thorntree, "Out of this world"));
+		myCars.add(new Car("Cafe Maghreb", R.drawable.maghreb, "Out of this world"));
+		myCars.add(new Car("Debonairs", R.drawable.debonairs, "Out of this world"));
+		myCars.add(new Car("Steers", R.drawable.streers, "Out of this world"));
+		myCars.add(new Car("Cafe Deli", R.drawable.cafedeli, "Out of this world")); 
+		
 	}
 	
 	private void populateListView() {

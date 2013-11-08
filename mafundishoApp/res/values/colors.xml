@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="title_background">#806030</color>
+    <color name="title_background">#561314</color>
     <color name="foreground1">#ff355689</color>
     <color name="foreground2">#ff222222</color>
     <color name="listtextcolor">#800080</color>

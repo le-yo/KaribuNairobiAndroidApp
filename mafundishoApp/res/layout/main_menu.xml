@@ -20,7 +20,6 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:orientation="vertical"
-       
         android:padding="6dip" >
 
         <LinearLayout
@@ -57,16 +56,21 @@
             <Button
                 android:id="@+id/btn_prayers"
                 style="@style/HomeButton"
-                android:drawableTop="@drawable/prayer"
+                android:drawableTop="@drawable/hotels_"
                 android:onClick="onButtonClicker"
-                android:text="@string/prayersTitle" />
+                android:text="@string/prayersTitle"
+                android:textColor="#FFFFFF"
+                
+                 />
 
             <Button
                 android:id="@+id/btn_questions"
                 style="@style/HomeButton"
-                android:drawableTop="@drawable/question"
+                android:drawableTop="@drawable/cart_"
                 android:onClick="onButtonClicker"
-                android:text="@string/quetionsTitle" />
+                android:text="@string/quetionsTitle"
+                android:textColor="#FFFFFF"
+                 />
         </LinearLayout>
 
         <LinearLayout
@@ -78,37 +82,47 @@
             <Button
                 android:id="@+id/btn_comm"
                 style="@style/HomeButton"
-                android:drawableTop="@drawable/commandments"
+                android:drawableTop="@drawable/taxi_"
                 android:onClick="onButtonClicker"
-                android:text="@string/commandmentsTitle" />
+                android:text="@string/commandmentsTitle"
+                android:textColor="#FFFFFF"
+                 />
 
             <Button
                 android:id="@+id/btn_creed"
                 style="@style/HomeButton"
-                android:drawableTop="@drawable/ac"
+                android:drawableTop="@drawable/attractions_"
                 android:onClick="onButtonClicker"
-                android:text="@string/creedTitle" />
+                android:text="@string/creedTitle"
+                android:textColor="#FFFFFF"
+                 />
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:orientation="horizontal" >
+            android:orientation="horizontal"
+            android:textColor="#FFFFFF"
+             >
 
             <Button
                 android:id="@+id/btn_parish"
                 style="@style/HomeButton"
-                android:drawableTop="@drawable/maps_alt"
+                android:drawableTop="@drawable/bars_"
                 android:onClick="onButtonClicker"
-                android:text="@string/parishTitle" />
+                android:text="@string/parishTitle"
+                android:textColor="#FFFFFF"
+                 />
 
             <Button
                 android:id="@+id/btn_about"
                 style="@style/HomeButton"
-                android:drawableTop="@drawable/info"
+                android:drawableTop="@drawable/bus_" 
                 android:onClick="onButtonClicker"
-                android:text="@string/aboutTitle" />
+                android:text="@string/aboutTitle"
+                android:textColor="#FFFFFF"
+                 />
         </LinearLayout>
     </LinearLayout>
 
