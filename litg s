@@ -1,0 +1,155 @@
+[1mdiff --git a/mafundishoApp/bin/classes/KaribuNairobi.apk b/mafundishoApp/bin/classes/KaribuNairobi.apk[m
+[1mindex 49bbaa5..e2ce2ed 100644[m
+Binary files a/mafundishoApp/bin/classes/KaribuNairobi.apk and b/mafundishoApp/bin/classes/KaribuNairobi.apk differ
+[1mdiff --git a/mafundishoApp/bin/classes/classes.dex b/mafundishoApp/bin/classes/classes.dex[m
+[1mindex 7824521..2844012 100644[m
+Binary files a/mafundishoApp/bin/classes/classes.dex and b/mafundishoApp/bin/classes/classes.dex differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/ChristianInitiationSacraments.class b/mafundishoApp/bin/classes/com/karibunairobi/ChristianInitiationSacraments.class[m
+[1mindex 11e0e93..e37ce1c 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/ChristianInitiationSacraments.class and b/mafundishoApp/bin/classes/com/karibunairobi/ChristianInitiationSacraments.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/Hilton.class b/mafundishoApp/bin/classes/com/karibunairobi/Hilton.class[m
+[1mindex caec2f0..bd15b8a 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/Hilton.class and b/mafundishoApp/bin/classes/com/karibunairobi/Hilton.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/Listview$1.class b/mafundishoApp/bin/classes/com/karibunairobi/Listview$1.class[m
+[1mindex 5210c3d..1aa459e 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/Listview$1.class and b/mafundishoApp/bin/classes/com/karibunairobi/Listview$1.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/Listview$MyListAdapter.class b/mafundishoApp/bin/classes/com/karibunairobi/Listview$MyListAdapter.class[m
+[1mindex 2f45688..07e9e10 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/Listview$MyListAdapter.class and b/mafundishoApp/bin/classes/com/karibunairobi/Listview$MyListAdapter.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/MainMenu.class b/mafundishoApp/bin/classes/com/karibunairobi/MainMenu.class[m
+[1mindex 040fa91..d0634b9 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/MainMenu.class and b/mafundishoApp/bin/classes/com/karibunairobi/MainMenu.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/MapsLocation.class b/mafundishoApp/bin/classes/com/karibunairobi/MapsLocation.class[m
+[1mindex 159d6c8..07c83ce 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/MapsLocation.class and b/mafundishoApp/bin/classes/com/karibunairobi/MapsLocation.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/ParishDirection.class b/mafundishoApp/bin/classes/com/karibunairobi/ParishDirection.class[m
+[1mindex a21667b..e0c199f 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/ParishDirection.class and b/mafundishoApp/bin/classes/com/karibunairobi/ParishDirection.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/R$id.class b/mafundishoApp/bin/classes/com/karibunairobi/R$id.class[m
+[1mindex c142556..dc56a29 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/R$id.class and b/mafundishoApp/bin/classes/com/karibunairobi/R$id.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/R$layout.class b/mafundishoApp/bin/classes/com/karibunairobi/R$layout.class[m
+[1mindex 611712c..4600617 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/R$layout.class and b/mafundishoApp/bin/classes/com/karibunairobi/R$layout.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/R$menu.class b/mafundishoApp/bin/classes/com/karibunairobi/R$menu.class[m
+[1mindex 072f3cd..00a25b9 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/R$menu.class and b/mafundishoApp/bin/classes/com/karibunairobi/R$menu.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/R$raw.class b/mafundishoApp/bin/classes/com/karibunairobi/R$raw.class[m
+[1mindex 6091b8d..8d93987 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/R$raw.class and b/mafundishoApp/bin/classes/com/karibunairobi/R$raw.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/R$string.class b/mafundishoApp/bin/classes/com/karibunairobi/R$string.class[m
+[1mindex a746ab5..af38699 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/R$string.class and b/mafundishoApp/bin/classes/com/karibunairobi/R$string.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/R$style.class b/mafundishoApp/bin/classes/com/karibunairobi/R$style.class[m
+[1mindex 1163187..f36d140 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/R$style.class and b/mafundishoApp/bin/classes/com/karibunairobi/R$style.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/Sacraments.class b/mafundishoApp/bin/classes/com/karibunairobi/Sacraments.class[m
+[1mindex ca3b6c4..850f9ad 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/Sacraments.class and b/mafundishoApp/bin/classes/com/karibunairobi/Sacraments.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/Sacraments_of_Healing.class b/mafundishoApp/bin/classes/com/karibunairobi/Sacraments_of_Healing.class[m
+[1mindex 0895229..1e5c809 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/Sacraments_of_Healing.class and b/mafundishoApp/bin/classes/com/karibunairobi/Sacraments_of_Healing.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/com/karibunairobi/ServiceofCommunionSacraments.class b/mafundishoApp/bin/classes/com/karibunairobi/ServiceofCommunionSacraments.class[m
+[1mindex 1636fe8..9985033 100644[m
+Binary files a/mafundishoApp/bin/classes/com/karibunairobi/ServiceofCommunionSacraments.class and b/mafundishoApp/bin/classes/com/karibunairobi/ServiceofCommunionSacraments.class differ
+[1mdiff --git a/mafundishoApp/bin/classes/resources.ap_ b/mafundishoApp/bin/classes/resources.ap_[m
+[1mindex 5f5ab07..d559fa3 100644[m
+Binary files a/mafundishoApp/bin/classes/resources.ap_ and b/mafundishoApp/bin/classes/resources.ap_ differ
+[1mdiff --git a/mafundishoApp/gen/com/karibunairobi/R.java b/mafundishoApp/gen/com/karibunairobi/R.java[m
+[1mindex df588ff..db0721e 100644[m
+[1m--- a/mafundishoApp/gen/com/karibunairobi/R.java[m
+[1m+++ b/mafundishoApp/gen/com/karibunairobi/R.java[m
+[36m@@ -81,42 +81,41 @@[m [mpublic final class R {[m
+         public static final int ScrollView02=0x7f0a000d;[m
+         public static final int Scroll_common_prayers=0x7f0a0011;[m
+         public static final int Scroll_five_types_of_prayers=0x7f0a0016;[m
+[31m-        public static final int back=0x7f0a0034;[m
+[32m+[m[32m        public static final int back=0x7f0a0033;[m
+         public static final int btnFeedback=0x7f0a001b;[m
+         public static final int btnHome=0x7f0a0018;[m
+[31m-        public static final int btn_about=0x7f0a0025;[m
+[31m-        public static final int btn_comm=0x7f0a0022;[m
+[31m-        public static final int btn_creed=0x7f0a0023;[m
+[31m-        public static final int btn_parish=0x7f0a0024;[m
+[31m-        public static final int btn_prayers=0x7f0a0020;[m
+[31m-        public static final int btn_questions=0x7f0a0021;[m
+[31m-        public static final int btncall=0x7f0a0029;[m
+[31m-        public static final int btnmap=0x7f0a002a;[m
+[31m-        public static final int btnwebsite=0x7f0a002b;[m
+[32m+[m[32m        public static final int btn_about=0x7f0a0024;[m
+[32m+[m[32m        public static final int btn_comm=0x7f0a0021;[m
+[32m+[m[32m        public static final int btn_creed=0x7f0a0022;[m
+[32m+[m[32m        public static final int btn_parish=0x7f0a0023;[m
+[32m+[m[32m        public static final int btn_prayers=0x7f0a001f;[m
+[32m+[m[32m        public static final int btn_questions=0x7f0a0020;[m
+[32m+[m[32m        public static final int btncall=0x7f0a0028;[m
+[32m+[m[32m        public static final int btnmap=0x7f0a0029;[m
+[32m+[m[32m        public static final int btnwebsite=0x7f0a002a;[m
+         public static final int buttonSend=0x7f0a000a;[m
+         public static final int carsListView=0x7f0a000c;[m
+         public static final int editTextMessage=0x7f0a0009;[m
+         public static final int editTextSubject=0x7f0a0007;[m
+         public static final int editTextTo=0x7f0a0005;[m
+         public static final int header=0x7f0a0003;[m
+[31m-        public static final int icon=0x7f0a002c;[m
+[32m+[m[32m        public static final int icon=0x7f0a002b;[m
+         public static final int item_icon=0x7f0a001c;[m
+[31m-        public static final int item_txtCondition=0x7f0a001f;[m
+[31m-        public static final int item_txtMake=0x7f0a001e;[m
+[31m-        public static final int item_txtYear=0x7f0a001d;[m
+[31m-        public static final int label=0x7f0a002d;[m
+[31m-        public static final int mapView=0x7f0a0026;[m
+[31m-        public static final int map_view=0x7f0a0028;[m
+[31m-        public static final int menu_settings=0x7f0a0035;[m
+[32m+[m[32m        public static final int item_txtCondition=0x7f0a001e;[m
+[32m+[m[32m        public static final int item_txtMake=0x7f0a001d;[m
+[32m+[m[32m        public static final int label=0x7f0a002c;[m
+[32m+[m[32m        public static final int mapView=0x7f0a0025;[m
+[32m+[m[32m        public static final int map_view=0x7f0a0027;[m
+[32m+[m[32m        public static final int menu_settings=0x7f0a0034;[m
+         public static final int panelIconLeft=0x7f0a0017;[m
+         public static final int panelIconRight=0x7f0a001a;[m
+[31m-        public static final int progressBar2=0x7f0a0030;[m
+[31m-        public static final int read_more=0x7f0a0033;[m
+[32m+[m[32m        public static final int progressBar2=0x7f0a002f;[m
+[32m+[m[32m        public static final int read_more=0x7f0a0032;[m
+         public static final int sc_About=0x7f0a0000;[m
+         public static final int sc_Commandments=0x7f0a000f;[m
+         public static final int sc_Creed=0x7f0a0012;[m
+[31m-        public static final int splashImage=0x7f0a0031;[m
+[31m-        public static final int splashText=0x7f0a0032;[m
+[32m+[m[32m        public static final int splashImage=0x7f0a0030;[m
+[32m+[m[32m        public static final int splashText=0x7f0a0031;[m
+         public static final int textView1=0x7f0a0015;[m
+         public static final int textViewMessage=0x7f0a0008;[m
+         public static final int textViewPhoneNo=0x7f0a0004;[m
+[36m@@ -125,12 +124,12 @@[m [mpublic final class R {[m
+         public static final int tv_ChristianInitiationSacraments=0x7f0a000e;[m
+         public static final int tv_Commandments=0x7f0a0010;[m
+         public static final int tv_Creed=0x7f0a0013;[m
+[31m-        public static final int tv_SacramentsofHealing=0x7f0a002e;[m
+[31m-        public static final int tv_ServiceofCommunionSacraments=0x7f0a002f;[m
+[32m+[m[32m        public static final int tv_SacramentsofHealing=0x7f0a002d;[m
+[32m+[m[32m        public static final int tv_ServiceofCommunionSacraments=0x7f0a002e;[m
+         public static final int txtHeading=0x7f0a0019;[m
+         public static final int txtMake=0x7f0a000b;[m
+         public static final int vsHeader=0x7f0a0002;[m
+[31m-        public static final int zoom=0x7f0a0027;[m
+[32m+[m[32m        public static final int zoom=0x7f0a0026;[m
+     }[m
+     public static final class layout {[m
+         public static final int about=0x7f030000;[m
+[1mdiff --git a/mafundishoApp/res/layout/activity_main.xml b/mafundishoApp/res/layout/activity_main.xml[m
+[1mindex ef3ea1d..25e0efa 100644[m
+[1m--- a/mafundishoApp/res/layout/activity_main.xml[m
+[1m+++ b/mafundishoApp/res/layout/activity_main.xml[m
+[36m@@ -14,7 +14,7 @@[m
+         android:layout_height="wrap_content"[m
+         android:layout_alignParentTop="true"[m
+         android:layout_alignParentLeft="true"[m
+[31m-        android:text="All My Cars"[m
+[32m+[m[32m        android:text="Hotels"[m
+         android:textAppearance="?android:attr/textAppearanceLarge" />[m
+ [m
+     <ListView[m
+[1mdiff --git a/mafundisho
