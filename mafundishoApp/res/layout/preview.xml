@@ -14,7 +14,7 @@
     android:layout_height="wrap_content"  
     android:id="@+id/ImageView01"
     android:background="@drawable/hilton"
-    ></ImageView> -->
+    ></ImageView> --> 
 <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"

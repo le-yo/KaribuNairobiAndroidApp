@@ -19,7 +19,7 @@ public class MainMenu extends DashBoardActivity {
 
 	public void onButtonClicker(View v) {
 		Intent intent;
-
+		Bundle bundle = new Bundle();
 		switch (v.getId()) {
 		/*case R.id.btn_intro:
 			intent = new Intent(this, Introduction.class);
@@ -32,30 +32,50 @@ public class MainMenu extends DashBoardActivity {
 			break;*/
 
 		case R.id.btn_prayers:
-			intent = new Intent(this, Listview.class);
+			intent = new Intent(this, Listview.class);			
+			bundle.putString("pos", "1");
+			bundle.putInt("background",R.drawable.hilton);
+			bundle.putString("Header", "Hotels & Restaurants");
+			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
 
 		case R.id.btn_questions:
-			intent = new Intent(this, Hilton.class);
+			intent = new Intent(this, Listview.class);			
+			bundle.putString("pos", "2");
+			bundle.putInt("background",R.drawable.hilton);
+			bundle.putString("Header", "Supermarkets");
+			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
 
 		case R.id.btn_comm:
-			intent = new Intent(this, Commandments.class);
+			intent = new Intent(this, Listview.class);			
+			bundle.putString("pos", "3");
+			bundle.putInt("background",R.drawable.hilton);
+			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
 
 		case R.id.btn_creed:
-			intent = new Intent(this, Description.class);
+			intent = new Intent(this, Listview.class);			
+			bundle.putString("pos", "4");
+			bundle.putInt("background",R.drawable.hilton);
+			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
 		case R.id.btn_parish:
-			intent = new Intent(this, Parish.class);
+			intent = new Intent(this, Listview.class);			
+			bundle.putString("pos", "5");
+			bundle.putInt("background",R.drawable.hilton);
+			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
 		case R.id.btn_about:
-			intent = new Intent(this, About.class);
+			intent = new Intent(this, Listview.class);			
+			bundle.putString("pos", "6");
+			bundle.putInt("background",R.drawable.hilton);
+			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
 		default:

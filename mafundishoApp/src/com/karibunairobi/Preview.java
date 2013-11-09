@@ -12,12 +12,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class Hilton  extends DashBoardActivity  {
-	public TextView description;
-    public Button viewmap;
-    public Bundle latData,longData;
-    public double lat,longi;
-    ProgressDialog dialog;
+public class Preview  extends DashBoardActivity  {
 
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -27,22 +22,28 @@ public class Hilton  extends DashBoardActivity  {
 		 Button btnmap =(Button)findViewById(R.id.btnmap);
        Button btnContact=(Button)findViewById(R.id.btnwebsite);
        
-       btDescription.setText("View Hilton's Description");
+       //decode mode
+       
+       
+       btDescription.setText("View Description");
   	 btnmap.setText("Check out map");
-  	 btnContact.setText("Visit Hilton's Website");
+  	 btnContact.setText("View Contacts");
 	}
 	public void clickdescription(View v){
-		Intent viewdescription = new Intent(Hilton.this,Description.class);
+		Intent viewdescription = new Intent(Preview.this,Description.class);
 		startActivity(viewdescription);
 	}
 	
 	public void viewmap(View v){
-		Intent viewmap = new Intent(Hilton.this,MapsLocation.class);
+		Intent viewmap = new Intent(Preview.this,MapsLocation.class);
 		//String longi = 1;
 		//String lat = 34;
-		Bundle bundle = new Bundle();
-		bundle.putString("lat", "1");
-		bundle.putString("longi", "34");
+		Bundle bundle = getIntent().getExtras();
+		
+		
+		//Bundle bundle = new Bundle();
+		//bundle.putString("lat", lat1);
+		//bundle.putString("longi", lat2);
 		
 		viewmap.putExtras(bundle);
 		startActivity(viewmap);   
@@ -50,7 +51,12 @@ public class Hilton  extends DashBoardActivity  {
 		}
 	
 	public void clickwebsite(View v){
-		Intent gowebsite = new Intent(Intent.ACTION_VIEW,Uri.parse("http://www3.hilton.com/en/hotels/kenya/hilton-nairobi-NBOHITW/about/index.html"));
+		Intent viewdescription = new Intent(Preview.this,Contact.class);
+		startActivity(viewdescription);
+		
+		Bundle bundle = getIntent().getExtras();
+		final String uri = bundle.getString("uri");
+		Intent gowebsite = new Intent(Intent.ACTION_VIEW,Uri.parse(uri));
 		startActivity(gowebsite);
 	}
 
