@@ -24,7 +24,7 @@ public class MainMenu extends DashBoardActivity {
 
 		case R.id.btn_hotels:
 			intent = new Intent(this, Listview.class);			
-			bundle.putString("pos", "1");
+			bundle.putInt("pos", 1);
 			bundle.putInt("background",R.drawable.nai);
 			bundle.putString("Header", "Hotels & Restaurants");
 			intent.putExtras(bundle);
@@ -33,7 +33,7 @@ public class MainMenu extends DashBoardActivity {
 
 		case R.id.btn_supermarkets:
 			intent = new Intent(this, Listview.class);			
-			bundle.putString("pos", "2");
+			bundle.putInt("pos", 2);
 			bundle.putInt("background",R.drawable.hilton);
 			bundle.putString("Header", "Supermarkets");
 			intent.putExtras(bundle);
@@ -42,7 +42,7 @@ public class MainMenu extends DashBoardActivity {
 
 		case R.id.btn_cabs:
 			intent = new Intent(this, Listview.class);			
-			bundle.putString("pos", "3");
+			bundle.putInt("pos", 3);
 			bundle.putInt("background",R.drawable.hilton);
 			bundle.putString("Header", "Cabs Services");
 			intent.putExtras(bundle);
@@ -51,7 +51,7 @@ public class MainMenu extends DashBoardActivity {
 
 		case R.id.btn_attractions:
 			intent = new Intent(this, Listview.class);			
-			bundle.putString("pos", "4");
+			bundle.putInt("pos", 4);
 			bundle.putInt("background",R.drawable.hilton);
 			bundle.putString("Header", "Attractions");
 			intent.putExtras(bundle);
@@ -59,7 +59,7 @@ public class MainMenu extends DashBoardActivity {
 			break;
 		case R.id.btn_bars:
 			intent = new Intent(this, Listview.class);			
-			bundle.putString("pos", "5");
+			bundle.putInt("pos", 5);
 			bundle.putInt("background",R.drawable.hilton);
 			bundle.putString("Header", "Bars & Clubs");
 			intent.putExtras(bundle);
@@ -67,7 +67,7 @@ public class MainMenu extends DashBoardActivity {
 			break;
 		case R.id.btn_bus:
 			intent = new Intent(this, Listview.class);			
-			bundle.putString("pos", "6");
+			bundle.putInt("pos", 6);
 			bundle.putInt("background",R.drawable.hilton);
 			bundle.putString("Header", "Bus Stations");
 			intent.putExtras(bundle);

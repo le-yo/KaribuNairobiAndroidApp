@@ -31,18 +31,13 @@ public class Listview extends Activity {
 	} 
 	private void populateCarList() {
 		Bundle bundle = getIntent().getExtras();
-		final String pos = bundle.getString("pos");
-		 Integer poss = Integer.parseInt(pos);
+		final Integer poss = bundle.getInt("pos");
+		 //Integer poss = Integer.parseInt(pos);
 		
 		switch (poss) {
 
 		case 1:
-			myItems.add(new ListItems("Hilton", R.drawable.hilton, "Needing work"));
-			//for each list item, we need the description we can use the position
-			//we need the latitude and longitude of the map we can use the position and back up with poss
-			//we need the contacts
-			//we need the website
-			
+			myItems.add(new ListItems("Hilton", R.drawable.hilton, "Needing work"));	
 			myItems.add(new ListItems("Nairobi Serena", R.drawable.serena, "Lovable"));
 			myItems.add(new ListItems("Nairobi Safari Club", R.drawable.safariclub, "Wet"));
 			myItems.add(new ListItems("Laico Regency", R.drawable.laicoregency, "Fast!"));
@@ -152,12 +147,18 @@ public class Listview extends Activity {
 				
 				Intent intent;
 				Bundle bundle = getIntent().getExtras();
-				final String pos = bundle.getString("pos");
-				Integer pos2 = Integer.parseInt(pos);
+				final Integer pos = bundle.getInt("pos");
+				//Integer pos2 = Integer.parseInt(pos);
 				final Integer bg = bundle.getInt("background");
 				intent = new Intent(Listview.this, Preview.class);					
 				Bundle bundle2 = new Bundle();
-				bundle2.putInt("pos", pos2);
+				bundle2.putInt("pos", pos);
+				//StringBuilder sb = new StringBuilder();
+				//sb.append("");
+				//sb.append(position);
+				//String position2 = sb.toString();
+				
+				//String position2 = position.toString();
 				bundle2.putInt("position", position);
 				bundle2.putInt("background",bg);
 				intent.putExtras(bundle2);

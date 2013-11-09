@@ -17,141 +17,395 @@
     <string name="ChristianInitiationSacraments">Christian Initiation Sacraments</string>
     <string name="SacramentsofHealing"> Sacraments of Healing</string>
     <string name="ServiceofCommunionSacraments">Service of Communion Sacraments</string>
-    <string name="fivetypesofprayers">	    THANKSGIVING\nn
-	    Giving God the thanks He deserves.\n
-	    We were created and redeemed by Him yet He continues to bless us and love us. \nn
-	    The greatest expression of thanksgiving should be after one receives the Eucharist.\n\n
-	    
-	    PETITION\n
-	    This is probably the most common type of prayer. We bring our requests before God for ourselves, our family, or our friends.\n
-	    While we can pray anywhere the greatest prayers are those before the Eucharist, where the veil between Heaven and earth is at its thinnest.\n\n
-	    
-	    PERSEVERING PRAYER\n
-	    These are the prayers for the deepest intentions of our heart.\n\n
-	    
-	    INTERSESSION\n
-	    Similar to those of petition, but there is a distinct difference.\n
-	    In prayers of intercession we are asking praying for others.\n
-	    We can ask these servants of God already in Heaven to pray for us just as we ask our friends on earth to pray for us.\n\n
-	    
-	    MEDITATIVE PRAYER\n
-	    The most simple of prayers. We don\'t say anything,we simply meditate on God\'s love and mercy. \n
-	    Very common in those quiet moments of Eucharistic Adoration. Just being one with Our Lord is the greatest gift.</string>
-    <string name="commonprayers">	    THE LORDS\'S PRAYER:\n
-	    Our Father, who art in heaven, hallowed be Thy Name,Thy kingdom come, Thy will be done on earth as it is in heaven.\n
-	    Give us this day our daily bread;forgive us our trespasses as we forgive those who trespass against us; \n
-	    and lead us not into temptation but deliver us from evil.Amen\n\n
-	    
-	    HAIL MARY,\n
-	    full of grace.Our Lord is with you.Blessed are you among women,and blessed is the fruit of your womb,Jesus.\n
-	    Holy Mary, Mother of God,pray for us sinners,now and at the hour of our death.Amen. \n\n
-	    
-	    GRACE BEFORE MEALS\n
-	    Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord. Amen.\n\n
-	    
-	    GRACE AFTER MEALS\n
-	    We give you thanks,Almighty God,for these and all your benefits,who lives and reigns for ever and ever.Amen\n\n
-	    
-	    THE ANGELUS\n
-	    V- The Angel of the Lord declared unto Mary.\n
-		R- And she conceived by the Holy Spirit.\n
-		(Hail Mary....)\n
-		V- Behold the handmaid of the Lord.\n
-		R- Be it done unto me according to thy word.\n
-		(Hail Mary....)\n
-		V- And the Word was made Flesh.\n
-		R- And dwelt among us.\n
-		(Hail Mary....)\n
-		V- Pray for us, O Holy Mother of God.\n
-		R- That we may be made worthy of the promises of Christ.\n
-		LET US PRAY:\n
-		Pour forth, we beseech Thee, O Lord, Thy grace into our hearts;\n
-		that, we to whom the Incarnation of Christ, Thy Son,\n
-		was made known by the message of an Angel,\n
-		may by His Passion and Cross,\n
-		be brought to the glory of His Resurrection\n
-		through the same Christ our Lord. Amen. \n</string>
-    <string name="questions">    Q. 1. What rule has God given to direct us how we may glorify and enjoy him?\n
-    A. The word of God, which is contained in the scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy him.\n\n
     
-    Q. 2. What is God?\n
-    A. God is a spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness and truth.\n\n
     
-    Q. 3. Are there more Gods than one?\n
-    A. There is but one only, the living and true God.\n\n
-    
-    Q. 4. How many persons are there in the godhead?\n
-    A. There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.\n\n
-    
-    Q. 5. What are the decrees of God?\n
-    A. The decrees of God are his eternal purpose, according to the counsel of his will, whereby, for his own glory, he hath foreordained whatsoever comes to pass.\n\n
-    
-    Q. 6. How does God execute his decrees?\n
-    A. God executeth his decrees in the works of creation and providence.\n\n
-    
-    Q. 7. What is the work of creation?\n
-    A. The work of creation is God\'s making all things of nothing, by the word of his power, in the space of six days, and all very good.\n\n
-    
-    Q. 8. How did God create man?\n
-    A. God created man male and female, after his own image, in knowledge, righteousness and holiness, with dominion over the creatures.\n\n
-    
-    Q. 9. What is sin?\n
-    A. Sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods.\n\n
-    
-    Q. 10.What are the different kinds of Sins?\n
-    A. fornication, impurity, licentiousness, idolatry, sorcery, enmity, strife, jealousy, anger, selfishness, dissension, factions, envy, drunkenness, carousing, and the like.\n\n
-    
-    Q. 11. What was the sin whereby our first parents fell from the estate wherein they were created?\n
-    A.  The sin whereby our first parents fell from the estate wherein they were created was their eating the forbidden fruit.\n\n
-    
-    Q. 12. Which is the first commandment?\n
-    A. The first commandment is, Thou shalt have no other gods before me.\n\n
-    
-    Q. 13. What is forbidden in the third commandment?\n
-    A. The third commandment forbiddeth all profaning or abusing of anything whereby God maketh himself known.\n\n
-    
-    Q. 14. What is baptism?\n
-    A. Baptism is a sacrament, wherein the washing with water in the name of the Father, and of the Son, and of the Holy Ghost, doth signify and seal our ingrafting into Christ, and partaking of the benefits of the covenant of grace, and our engagement to be the Lord\'s.\n\n
-    
-    Q. 15. What is prayer?\n
-    A. Prayer is an offering up of our desires unto God, for things agreeable to his will, in the name of Christ, with confession of our sins, and thankful acknowledgment of his mercies.\n\n
-    
-    Q. 16. What the seven gifts of the Holy Spirit?\n
-    A. Wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord.\n\n
-    
-    Q. 17. What are the fruits of the Holy Spirit?\n
-    A. charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness, modesty, self-control, chastity.</string>
-
-    <string name = "commandments">
-        1.I am the Lord your God, who brought you out of the land of Egypt, out of the house of bondage. You shall have no other gods before Me.\n
-        2.You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; you shall not bow down to them nor serve them. For I, the Lord your God, am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generations of those who hate Me, but showing mercy to thousands, to those who love Me and keep My Commandments.\n
-        3.You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes His name in vain.\n
-        4.Remember the Sabbath day, to keep it holy.\n
-        5.Honor your father and your mother, that your days may be long upon the land which the Lord your God is giving you.\n
-        6.You shall not murder.\n
-        7.You shall not commit adultery.\n
-        8.You shall not steal.\n
-        9.You shall not bear false witness against your neighbor.\n
-        10.You shall not covet your neighbor\'s house; you shall not covet your neighbor\'s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor\'s.
-    </string>
-    <string name="creed">
-        I believe in God the Father almighty, creator of heaven and earth.\n
-        I believe in Jesus Christ, his only Son, our Lord.\n
-        He was conceived by the power of the Holy Spirit and born of the Virgin Mary\n
-        Under Pontius Pilate He was crucified, died, and was buried.\n
-        He descended to the dead.\n
-        On the third day he rose again.\n
-        He ascended into heaven and is seated at the right hand of the Father.\n
-        He will come again to judge the living and the dead.\n\n
+    <string name="d11">Characterized by comfort and elegance Hilton is the perfect hotel for business travelers and families as well. Located in the heart of the city it has an incredible view to its environs. The hotel is well equipped with a fitness centre, gift shops, clothing stores, beauty salon, internet, secretarial and babysitting services, and shuttle services to and from the hotel. Not forgetting that pets are allowed.</string>
+    <string name="c11">Mama Ngina St, City Centre\n
+Cell: +254 724 775027\n
+       +254 739 208630\n
+Tel: 020 260 8702\n
+        020 228 8000\n
+    <string name="m11">34.87,1.987</string>
+	
+    <string name="d12">Nairobi Serena Hotel is a 5 Star wonder combining both modern design and traditional artwork with rooms designed along pan- African themes. It’s well equipped with a heated swimming pool gym and spa treatment centre and conference facilities.</string>
+    <string name="c12">Kenyatta Avenue\n
+P.O. Box 46302, City Centre, 00100\n
+Tel: +254 20 2822000\n
+Nairobi@serena.co.ke\n
         
-        I believe in the Holy Spirit, \n
-        the holy catholic Church, \n
-        the communion of saints, \n
-        the forgiveness of sins, \n
-        the resurrection of the body,\n
-        and the life everlasting. \n
-        Amen.
     </string>
+    <string name="w12">http://serena.co.ke</string>
+    <string name="m12">34.87,1.987</string>
+	   
+<string name="d13">Nairobi Safari club offer 5 Star services elegant accommodation and modern amenities.  All accommodation is suites with internet access, satellite television direct dial telephones and Jacuzzi- style tubs in the bathrooms.  The safari restaurant offers upscale fine dining with an international menu. The hotel is equipped with a gym steam bath and sauna and a heated swimming pool.  It also has conference rooms serving a variety of meeting and social events.</string>
+    <string name="c13">Koinange Street, and University Way\n
+P.O. Box: 43564 - 00100, Nairobi, Kenya\n
+Telephone: 254-20-2821000, 
+Cellphone: 254-722209842 / 722208782 / \n
+734251333 / 734251334\n
+ Email: info@nairobisafariclub.com \n
+  Reservation: reservations@nairobisafariclub.com\n
+        </string>
+        
+    </string>
+    <string name="w13">http://nairobisafariclub.com</string>
+    <string name="m13">34.87,1.987</string>
+   
+<string name="d14">Laico Regency Hotel caters mainly to the growing demand of business travelers and congress seminars organizers. It offers quality accommodation as well as inspiring conference facilities. It offers quality services to ensure guests’ comfort at all times within a warm and welcoming atmosphere.</string>
+    <string name="c14">10 Market Street, Uhuru Highway\n
+P.O. BOX 57549-00200 NAIROBI\n
+Phone +254-20-2211199\n
+             +254-20-2887000\n
+ Fax     +254-20-2217120\n 
+Email: reservations@laicoregencyhotel.co.ke\n
+        
+        
+    </string>
+    <string name="w14">http://laicoregencyhotel.co.ke</string>
+    <string name="m14">34.87,1.987</string>
+	
+	
+	
+	   
+<string name="d15">Fairmont hotel is an old establishment of the colonial days dating back to 1904. It has a luxurious 5 star serenity, geared with modern convenience. Fairmont has spacious rooms with stunning interiors, being individually furnished in keeping with the rest of the hotels plush décor. The style and quality of the food is superb from it wide range of restaurants and bars.</string>
+    <string name="c15">Harry Thuku Road, Nairobi.\n
+P.O. BOX 58581, City Centre 00200\n
+TEL: +254(0) 20 2265555\n
+FAX: +254(0) 20 2216796\n
+EMAIL: Kenya.reservations@fairmont.com\n
+        
+        
+    </string>
+    <string name="w15">http:fairmont.com//</string>
+    <string name="m15">34.87,1.987</string>
+	<!--strings -->
+	
+	
+	   
+<string name="d16">The Panari Hotel is perfectly situated close to the international airport. It’s a place of luxury with additional interesting features such as one of the few ice skating rinks found in Africa.</string>
+    <string name="c16">Mombasa Road \n
+P.O.BOX 4372-00506 Nairobi\n
+TEL: +254(020) 3946000, 828990/3\n
+CELL: +254-0733 694600/1/2 or 075694600/1/2\n
+EMAIL: reservations@panarihotels.com\n
+             events@panarihotels.com\n
+        
+        
+    </string>
+    <string name="w16">http://panarihotels.com</string>
+    <string name="m16">34.87,1.987</string>
+	<!--strings -->
+	
+	   
+<string name="d17">Ole Sereni hotel is often referred to as the city hotel by the game park; it offers luxury through the combination of comfort, the wind and the wild. It has business and fitness amenities geared with state of the art facilities. Ole Sereni serves the best of 5 different cuisines served at the Big Five restaurant, the Waterhole and the fine dining Eagles’ Lounge. The hotel is also in close proximity to the International Airport.</string>
+    <string name="c17">Mombasa Road\n
+P.O.BOX 18187-00500 Nairobi\n
+TEL: +254-732 191 000\n
+ FAX: +254 20 3901 400\n
+EMAIL: info@ole-serenihotel.com\n
+        
+        
+    </string>
+    <string name="w17">http://ole-serenihotel.com</string>
+    <string name="m17">34.87,1.987</string>
+	<!--strings -->
+	
+	
+	   
+<string name="d18">The Giraffe is a unique, exciting and stylish place to stay. It is in close proximity to the many giraffes who wander about the grounds. It offers amazing accommodation with six en-suite bedrooms with one made specially for children. It allows guests to organize events for upto 20 people.</string>
+    <string name="c18">PO Box 15004, Langata, 00509\n
+No: 020 2513166\n
+
+        
+        
+    </string>
+    <string name="w18">http://</string>
+    <string name="m18">34.87,1.987</string>
+	<!--strings -->
+	
+	   
+<string name="d19"> Mokoyeti Resort is equipped with a water park, a river, a pool, wireless internet access, meeting rooms for small groups, business services, a bar, restaurant, and not forgetting the 24 hour room service. </string>
+    <string name="c19">
+        
+    </string>
+    <string name="w19">http://</string>
+    <string name="m19">34.87,1.987</string>
+	<!--strings -->
+	
+	   
+<string name="d110">Java House has a cosy feel and cool design characterized by amazing array of artwork. Convenient located in the heart of the City it is an amazing place to hang out and have tantalizing cuisines from all over the world. To add to all that it is one of Kenya’s most successful coffee houses.</string>
+    <string name="c110">Mama Ngina Street, City Centre\n
+P.O Box 21533-00505\n
+Tel: +254 020 313564/5\n
+        
+        
+    </string>
+    <string name="w110">http://</string>
+    <string name="m110">34.87,1.987</string>
+	<!--strings -->
+	
+	   
+<string name="d111">The thorn Tree café is a historic open-air bistro style café has been a popular meeting place for travelers and business people since 1959.  There is live Jazz, Rock, Reggae, African fusion, and soul music make for daily evening entertainment. The café serves a wide range of dishes made to perfection in the most original ways possible.</string>
+    <string name="c111">Sarova Stanley, Standard Strt, City Centre\n
+Tel: +254 (0)20 228830 Ext 8027/8047/807\n
+        
+        
+    </string>
+    <string name="w111">http://</string>
+    <string name="m111">34.87,1.987</string>
+	<!--strings -->
+	
+	
+	   
+<string name="d112">Café Maghreb is a stylish Moroccan bar found within the Serena Hotel in Nairobi. Used by visitors to Kenya and business community, the Maghreb Bar is an all day café with an international style menu reflecting the best western and eastern cuisine.</string>
+    <string name="c112">Serena Hotel, Kenyatta Avenue, City Centre\n
+P.O. Box 46302 – 00100\n
+Tel: +254 (0) 2822000 or 0733282200/1/2\n
+Fax: +254 (0) 20 2725184\n
+
+        
+        
+    </string>
+    <string name="w112">http://</string>
+    <string name="m112">34.87,1.987</string>
+	<!--strings -->
+	
+	
+	   
+<string name="d113">Debonairs mainstays include pizzas, hot subs, chicken wings and drinks. It offers free delivery for more than Ksh 500 worth of take out within a 5km radius of the restaurant. It would also deliver further but at an extra cost.</string>
+    <string name="c113">Muidi Mbingu Street, City Centre\n
+Westlands ( Mpaka Road)\n
+P.O Box 49842-00100\n
+Tel: 0708 749927\n
+
+    </string>
+    <string name="w113">http://</string>
+    <string name="m113">34.87,1.987</string>
+	<!--strings -->
+	
+	
+	   
+<string name="d114">Steer is a South African fast food burger chain offering a wide range of meals at reasonable prices. It offers free delivery to customers from 11am to around 10pm their closing time.</string>
+    <string name="c114"> Muindi  Mbingu Street, City Centre\n
+The mall, Westlands\n
+Caltex Petrol Station, Donholm\n
+Village Market, Limuru road\n
+Uchumi  Hyper, Ngong Road\n
+Tel: 0708 783377\n
+            
+    </string>
+    <string name="w114">http://</string>
+    <string name="m114">34.87,1.987</string>
+	<!--strings -->
+	
+	
+	   
+<string name="d115"></string>
+    <string name="c115">
+        
+    </string>
+    <string name="w115">http://</string>
+    <string name="m115"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d21">•	Merchandise
+We stock a wide range of merchandise, i.e. electronics and mattresses etc.We also weigh cereals/flour at the convenience of your pocket from 100gm onwards! 
+•	Parking
+The mall has ample and secure parking bay.
+    
+</string>
+    <string name="c21">Westlands Arcade, Nairobi\n
+Tel : 020-4448997, 020-8020087, 020-8082841\n
+        
+        
+    </string>
+    <string name="w21">http://uchumicorporate.co.ke/kenya/</string>
+    <string name="m21"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d22">It has ample, clean, secure and easy accessible parking with a well marked basement section in case of need to protect your car from strong sunlight or avoiding wetness during rainy seasons.  There is a wide range of products; both foods and non-foods we have a rich blend of variety that keeps our motto ‘Your home of value’ ablaze.
+Other services available are Pharmacy, an Ice Cream Parlour, Laundry services, a Gift Shop, Restaurant, Bata Shop, Photo studio, Beauty Shops among others.
+ Business hours: 8.00am - 9.00pm\n   
+</string>
+    <string name="c22">Tel: 020-6004169, 020-6004275, 020-2062764, 020-2446583, 020-8082829, 0728-151750, 0728-151750
+        
+    </string>
+    <string name="w22">http://uchumicorporate.co.ke</string>
+    <string name="m22"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d23">The shop has a wide range of products and services like bakery which have fresh chips and chicken pastry snacks, birthday cakes, bread, sandwiches etc. fresh fish ,fresh beef cut ,local and imported furniture.
+Other services available are pharmacy, insurance brokers, white rose dry cleaners, vision salon, baby shop, local and imported designed textiles and Mary Kay cosmetics, Maasai market every Wednesday. There is also a forex bureau.
+  Business hours: 8.00am - 9.00pm, Friday to Sunday 8.00 am – midnight  
+</string>
+    <string name="c23">Tel : 020-2446581, 020-553645/7, 020-2062765, 020-553663, 020-553654, 0723 - 563785, 0723-644965,
+         0728-242086, 0719-758102
+        
+        
+    </string>
+    <string name="w23">http://uchumicorporate.co.ke</string>
+    <string name="m23"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d24">The store has ample and secure parking bay. We offer a wide range of products from Groceries, Home care, Hardware, utensils.We also stock amazing local furniture with a great finish, animation, this is coupled with imported flavor of furnishings.The Butchery with freshly cut meats, fish, chicken, KMC Halal inclusive puts Uchumi ngong Hyper as the meat choice joint.
+ Other services available in the shop include Laundry services, a Pharmacy, a Restaurant, Shoe shops, a Photo studio, an Eye centre, Ladies Textiles, Man’s shop, Wedding shop and an Ice cream parlor among others.There is also a Curio market over the weekend with a wide variety of African ornaments, garments.
+Business hours: 7.30am to 8.45pm
+    
+</string>
+    <string name="c24">Tel: 020-2446582, 020-3875759/55, 020-3875713/12, 020-3875720, 020-3875752, 020-3860638, 
+        020-3860018, 020-2062763, 020-8082841, 0722-205441, 0733-410027
+        
+        
+    </string>
+    <string name="w24">http://uchumicorporate.co.ke</string>
+    <string name="m24"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d25">The mall has ample and secure parking bay.                                                                   We stock a wide range of merchandise, i.e. foods, cutlery, home appliances, clothes, carpets, bicycles, beauty products, hardware equipments etc.
+Enjoy a wide range of wines and spirit sourced as far as South Africa, Chile, Italy and Spain. You can withdraw cash from the various ATM within the Mall, this ranges from Barclays, Co-operative, KCB, Equity, Stanbic and Stan-chart.
+Our door is open to foreign customers. You need not worry if you have foreign currency since the mall host a forex bureau.
+    
+</string>
+    <string name="c25">Tel: 020-2446584, 020-4445930, 020-4445886, 020-2062822, 0722-205443, 0733-410029
+        
+    </string>
+    <string name="w25">http://uchumicorporate.co.ke</string>
+    <string name="m25"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d26">The store has ample and secure parking bay. We offer a wide range of products from Groceries, Home care, Hardware, utensils.We also stock amazing local furniture with a great finish, animation, this is coupled with imported flavor of furnishings.services available in the shop include Laundry services, a Pharmacy, a Restaurant, Shoe shops,, Man’s shop, Wedding shop and an Ice cream parlor among others.</string>
+    <string name="c26">P.O. BOX 78355-00507 Nairobi\n
+        No: 0733 632133\n
+       0722 204936\n
+Fax: 7122138\n
+
+        
+        
+        
+    </string>
+    <string name="w26">http://nakumatt.co.ke</string>
+    <string name="m26"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d27">The store has ample and secure parking bay. We offer a wide range of products from Groceries, Home care, Hardware, utensils.We also stock amazing local furniture with a great finish, animation, this is coupled with imported flavor of furnishings.services available in the shop include Laundry services, a Pharmacy, a Restaurant, Shoe shops,, Man’s shop, Wedding shop and an Ice cream parlor among others.</string>
+    <string name="c27">P.O. BOX 78355-00507 Nairobi\n
+        No: 0733 632133\n
+       0722 204936\n
+Fax: 7122138\n
+        
+    </string>
+    <string name="w27">http://nakumatt.co.ke</string>
+    <string name="m27"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d28">The store has ample and secure parking bay. We offer a wide range of products from Groceries, Home care, Hardware, utensils.We also stock amazing local furniture with a great finish, animation, this is coupled with imported flavor of furnishings.services available in the shop include Laundry services, a Pharmacy, a Restaurant, Shoe shops,, Man’s shop, Wedding shop and an Ice cream parlor among others.</string>
+    <string name="c28">P.O. BOX 78355-00507 Nairobi\n
+        No: 0733 632133\n
+       0722 204936\n
+Fax: 7122138\n
+        
+    </string>
+    <string name="w28">http://nakumatt.co.ke</string>
+    <string name="m28"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d29">The store has ample and secure parking bay. We offer a wide range of products from Groceries, Home care, Hardware, utensils.We also stock amazing local furniture with a great finish, animation, this is coupled with imported flavor of furnishings.services available in the shop include Laundry services, a Pharmacy, a Restaurant, Shoe shops,, Man’s shop, Wedding shop and an Ice cream parlor among others.</string>
+    <string name="c29">P.O. BOX 78355-00507 Nairobi\n
+        No: 0733 632133\n
+       0722 204936\n
+Fax: 7122138\n
+        
+    </string>
+    <string name="w29">http://nakumatt.co.ke</string>
+    <string name="m29"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d210">The store has ample and secure parking bay. We offer a wide range of products from Groceries, Home care, Hardware, utensils.We also stock amazing local furniture with a great finish, animation, this is coupled with imported flavor of furnishings.services available in the shop include Laundry services, a Pharmacy, a Restaurant, Shoe shops,, Man’s shop, Wedding shop and an Ice cream parlor among others.</string>
+    <string name="c210">P.O. BOX 78355-00507 Nairobi\n
+        No: 0733 632133\n
+       0722 204936\n
+Fax: 7122138\n
+        
+    </string>
+    <string name="w210">http://nakumatt.co.ke</string>
+    <string name="m210"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d211">Tuskys has in addition to provision of the conventional supermarket services embarked on providing its unique’Fresh Concepts’( private label products) in the form of in-store Bakeries, Delis, Butchery, Whole Milk Dispensers, Water Dispensers and a wide range of locally sourced Fresh Fruits and Vegetables at substantially lower prices.</string>
+    <string name="c211">No: +254-706-171155\n
+Email:customercare@tuskys.com\n
+        
+        
+    </string>
+    <string name="w211">http://tuskys.com</string>
+    <string name="m211"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d212">Tuskys has in addition to provision of the conventional supermarket services embarked on providing its unique’Fresh Concepts’( private label products) in the form of in-store Bakeries, Delis, Butchery, Whole Milk Dispensers, Water Dispensers and a wide range of locally sourced Fresh Fruits and Vegetables at substantially lower prices.</string>
+    <string name="c212">No: +254-706-171155\n
+Email:customercare@tuskys.com\n
+        
+    </string>
+    <string name="w212">http://tuskys.com</string>
+    <string name="m212"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d213">Tuskys has in addition to provision of the conventional supermarket services embarked on providing its unique’Fresh Concepts’( private label products) in the form of in-store Bakeries, Delis, Butchery, Whole Milk Dispensers, Water Dispensers and a wide range of locally sourced Fresh Fruits and Vegetables at substantially lower prices.</string>
+    <string name="c213">No: +254-706-171155\n
+Email:customercare@tuskys.com\n
+        
+    </string>
+    <string name="w213">http://tuskys.com</string>
+    <string name="m213"></string>
+	<!--strings -->
+	
+	
+   
+<string name="d214">Tuskys has in addition to provision of the conventional supermarket services embarked on providing its unique’Fresh Concepts’( private label products) in the form of in-store Bakeries, Delis, Butchery, Whole Milk Dispensers, Water Dispensers and a wide range of locally sourced Fresh Fruits and Vegetables at substantially lower prices.</string>
+    <string name="c214">No: +254-706-171155\n
+Email:customercare@tuskys.com\n
+        
+    </string>
+    <string name="w214">http://tuskys.com</string>
+    <string name="m214"></string>
+	<!--strings -->
+	
+	
+	   
+<string name="d215">Tuskys has in addition to provision of the conventional supermarket services embarked on providing its unique’Fresh Concepts’( private label products) in the form of in-store Bakeries, Delis, Butchery, Whole Milk Dispensers, Water Dispensers and a wide range of locally sourced Fresh Fruits and Vegetables at substantially lower prices.</string>
+    <string name="c215">No: +254-706-171155\n
+Email:customercare@tuskys.com\n
+        
+    </string>
+    <string name="w215">http://tuskys.com</string>
+    <string name="m215"></string>
+	<!--strings -->
 	<string name = "about">
 	    KaribuNairobi\n
         Developer: Sharon\n

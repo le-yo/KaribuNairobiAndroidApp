@@ -67,8 +67,22 @@ public class Preview  extends DashBoardActivity  {
 //        bundle3.putString("pos", pos);
 //		bundle3.putInt("position", position);
 //		bundle3.putInt("background",bg);
+        
+        final Integer bg = bundle3.getInt("background");
+		final Integer position = bundle3.getInt("position");
+		final Integer pos = bundle3.getInt("pos");
 		
-		viewdescription.putExtras(bundle3);
+		Bundle bundle = getIntent().getExtras();
+		//final Integer pos = bundle.getInt("poss");
+		//Integer pos2 = Integer.parseInt(pos);
+		//final Integer bg = bundle.getInt("background");
+		//intent = new Intent(Listview.this, Preview.class);					
+		Bundle bundle2 = new Bundle();
+		bundle2.putInt("pos", pos);
+		bundle2.putInt("position", position);
+		bundle2.putInt("background", bg);
+		
+		viewdescription.putExtras(bundle2);
 		
 		startActivity(viewdescription);
 	}

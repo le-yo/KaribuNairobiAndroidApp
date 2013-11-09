@@ -94,87 +94,71 @@ public final class R {
         public static final int yellowcab=0x7f020042;
     }
     public static final class id {
-        public static final int ImageView01=0x7f0a0015;
-        public static final int ScrollView02=0x7f0a000e;
-        public static final int Scroll_common_prayers=0x7f0a0012;
-        public static final int Scroll_five_types_of_prayers=0x7f0a0017;
-        public static final int back=0x7f0a0035;
-        public static final int btnFeedback=0x7f0a001c;
-        public static final int btnHome=0x7f0a0019;
-        public static final int btn_attractions=0x7f0a0023;
-        public static final int btn_bars=0x7f0a0024;
-        public static final int btn_bus=0x7f0a0025;
-        public static final int btn_cabs=0x7f0a0022;
-        public static final int btn_hotels=0x7f0a0020;
-        public static final int btn_supermarkets=0x7f0a0021;
-        public static final int btncall=0x7f0a002a;
-        public static final int btnmap=0x7f0a002b;
-        public static final int btnwebsite=0x7f0a002c;
+        public static final int ImageView01=0x7f0a000e;
+        public static final int back=0x7f0a002b;
+        public static final int btnFeedback=0x7f0a0014;
+        public static final int btnHome=0x7f0a0011;
+        public static final int btn_attractions=0x7f0a001b;
+        public static final int btn_bars=0x7f0a001c;
+        public static final int btn_bus=0x7f0a001d;
+        public static final int btn_cabs=0x7f0a001a;
+        public static final int btn_hotels=0x7f0a0018;
+        public static final int btn_supermarkets=0x7f0a0019;
+        public static final int btncall=0x7f0a0022;
+        public static final int btnmap=0x7f0a0023;
+        public static final int btnwebsite=0x7f0a0024;
         public static final int buttonSend=0x7f0a000a;
         public static final int carsListView=0x7f0a000c;
         public static final int editTextMessage=0x7f0a0009;
         public static final int editTextSubject=0x7f0a0007;
         public static final int editTextTo=0x7f0a0005;
         public static final int header=0x7f0a0003;
-        public static final int icon=0x7f0a002d;
-        public static final int item_icon=0x7f0a001d;
-        public static final int item_txtCondition=0x7f0a001f;
-        public static final int item_txtMake=0x7f0a001e;
-        public static final int label=0x7f0a002e;
-        public static final int linlay=0x7f0a0029;
-        public static final int mapView=0x7f0a0026;
-        public static final int map_view=0x7f0a0028;
-        public static final int menu_settings=0x7f0a0036;
-        public static final int panelIconLeft=0x7f0a0018;
-        public static final int panelIconRight=0x7f0a001b;
-        public static final int progressBar2=0x7f0a0031;
-        public static final int read_more=0x7f0a0034;
+        public static final int icon=0x7f0a0025;
+        public static final int item_icon=0x7f0a0015;
+        public static final int item_txtCondition=0x7f0a0017;
+        public static final int item_txtMake=0x7f0a0016;
+        public static final int label=0x7f0a0026;
+        public static final int linlay=0x7f0a0021;
+        public static final int mapView=0x7f0a001e;
+        public static final int map_view=0x7f0a0020;
+        public static final int menu_settings=0x7f0a002c;
+        public static final int panelIconLeft=0x7f0a0010;
+        public static final int panelIconRight=0x7f0a0013;
+        public static final int progressBar2=0x7f0a0027;
+        public static final int read_more=0x7f0a002a;
         public static final int sc_About=0x7f0a0000;
-        public static final int sc_Commandments=0x7f0a0010;
-        public static final int sc_Creed=0x7f0a0013;
-        public static final int splashImage=0x7f0a0032;
-        public static final int splashText=0x7f0a0033;
-        public static final int textView1=0x7f0a0016;
+        public static final int splashImage=0x7f0a0028;
+        public static final int splashText=0x7f0a0029;
+        public static final int textView1=0x7f0a000f;
         public static final int textViewMessage=0x7f0a0008;
         public static final int textViewPhoneNo=0x7f0a0004;
         public static final int textViewSubject=0x7f0a0006;
         public static final int tv_About=0x7f0a0001;
-        public static final int tv_ChristianInitiationSacraments=0x7f0a000f;
-        public static final int tv_Commandments=0x7f0a0011;
-        public static final int tv_Creed=0x7f0a0014;
-        public static final int tv_SacramentsofHealing=0x7f0a002f;
-        public static final int tv_ServiceofCommunionSacraments=0x7f0a0030;
-        public static final int txtHeading=0x7f0a001a;
+        public static final int txtHeading=0x7f0a0012;
         public static final int txtMade=0x7f0a000b;
         public static final int txtMake=0x7f0a000d;
         public static final int vsHeader=0x7f0a0002;
-        public static final int zoom=0x7f0a0027;
+        public static final int zoom=0x7f0a001f;
     }
     public static final class layout {
         public static final int about=0x7f030000;
         public static final int activity_feedback=0x7f030001;
         public static final int activity_main=0x7f030002;
-        public static final int christianinitiationsacraments=0x7f030003;
-        public static final int commandments=0x7f030004;
-        public static final int commonprayers=0x7f030005;
-        public static final int creed=0x7f030006;
-        public static final int description=0x7f030007;
-        public static final int fivetypesofprayers=0x7f030008;
-        public static final int fr=0x7f030009;
-        public static final int header=0x7f03000a;
-        public static final int introduction=0x7f03000b;
-        public static final int item_view=0x7f03000c;
-        public static final int list_items=0x7f03000d;
-        public static final int main_menu=0x7f03000e;
-        public static final int maps=0x7f03000f;
-        public static final int parish=0x7f030010;
-        public static final int parishdirection=0x7f030011;
-        public static final int prayers=0x7f030012;
-        public static final int preview=0x7f030013;
-        public static final int sacraments=0x7f030014;
-        public static final int sacraments_of_healing=0x7f030015;
-        public static final int serviceofcommunionsacraments=0x7f030016;
-        public static final int splash=0x7f030017;
+        public static final int description=0x7f030003;
+        public static final int description_main=0x7f030004;
+        public static final int fr=0x7f030005;
+        public static final int header=0x7f030006;
+        public static final int introduction=0x7f030007;
+        public static final int item_view=0x7f030008;
+        public static final int list_items=0x7f030009;
+        public static final int main_menu=0x7f03000a;
+        public static final int maps=0x7f03000b;
+        public static final int parish=0x7f03000c;
+        public static final int parishdirection=0x7f03000d;
+        public static final int prayers=0x7f03000e;
+        public static final int preview=0x7f03000f;
+        public static final int sacraments=0x7f030010;
+        public static final int splash=0x7f030011;
     }
     public static final class menu {
         public static final int cis_menu=0x7f090000;
@@ -194,24 +178,183 @@ public final class R {
         public static final int FeedbackActivityTitle=0x7f070005;
         public static final int SacramentsofHealing=0x7f07000f;
         public static final int ServiceofCommunionSacraments=0x7f070010;
-        public static final int about=0x7f070016;
+        /** strings 
+         */
+        public static final int about=0x7f070081;
         public static final int aboutTitle=0x7f07000d;
         public static final int app_name=0x7f070000;
-        public static final int commandments=0x7f070014;
+        public static final int c11=0x7f070012;
+        public static final int c110=0x7f07002e;
+        public static final int c111=0x7f070032;
+        public static final int c112=0x7f070036;
+        public static final int c113=0x7f07003a;
+        public static final int c114=0x7f07003e;
+        public static final int c115=0x7f070042;
+        public static final int c14=0x7f070016;
+        public static final int c15=0x7f07001a;
+        public static final int c16=0x7f07001e;
+        public static final int c17=0x7f070022;
+        public static final int c18=0x7f070026;
+        public static final int c19=0x7f07002a;
+        public static final int c21=0x7f070046;
+        public static final int c210=0x7f07006a;
+        public static final int c211=0x7f07006e;
+        public static final int c212=0x7f070072;
+        public static final int c213=0x7f070076;
+        public static final int c214=0x7f07007a;
+        public static final int c215=0x7f07007e;
+        public static final int c22=0x7f07004a;
+        public static final int c23=0x7f07004e;
+        public static final int c24=0x7f070052;
+        public static final int c25=0x7f070056;
+        public static final int c26=0x7f07005a;
+        public static final int c27=0x7f07005e;
+        public static final int c28=0x7f070062;
+        public static final int c29=0x7f070066;
         public static final int commandmentsTitle=0x7f07000a;
-        public static final int commonprayers=0x7f070012;
-        public static final int creed=0x7f070015;
         public static final int creedTitle=0x7f07000b;
-        public static final int fivetypesofprayers=0x7f070011;
+        public static final int d11=0x7f070011;
+        /** strings 
+         */
+        public static final int d110=0x7f07002d;
+        /** strings 
+         */
+        public static final int d111=0x7f070031;
+        /** strings 
+         */
+        public static final int d112=0x7f070035;
+        /** strings 
+         */
+        public static final int d113=0x7f070039;
+        /** strings 
+         */
+        public static final int d114=0x7f07003d;
+        /** strings 
+         */
+        public static final int d115=0x7f070041;
+        public static final int d14=0x7f070015;
+        public static final int d15=0x7f070019;
+        /** strings 
+         */
+        public static final int d16=0x7f07001d;
+        /** strings 
+         */
+        public static final int d17=0x7f070021;
+        /** strings 
+         */
+        public static final int d18=0x7f070025;
+        /** strings 
+         */
+        public static final int d19=0x7f070029;
+        /** strings 
+         */
+        public static final int d21=0x7f070045;
+        /** strings 
+         */
+        public static final int d210=0x7f070069;
+        /** strings 
+         */
+        public static final int d211=0x7f07006d;
+        /** strings 
+         */
+        public static final int d212=0x7f070071;
+        /** strings 
+         */
+        public static final int d213=0x7f070075;
+        /** strings 
+         */
+        public static final int d214=0x7f070079;
+        /** strings 
+         */
+        public static final int d215=0x7f07007d;
+        /** strings 
+         */
+        public static final int d22=0x7f070049;
+        /** strings 
+         */
+        public static final int d23=0x7f07004d;
+        /** strings 
+         */
+        public static final int d24=0x7f070051;
+        /** strings 
+         */
+        public static final int d25=0x7f070055;
+        /** strings 
+         */
+        public static final int d26=0x7f070059;
+        /** strings 
+         */
+        public static final int d27=0x7f07005d;
+        /** strings 
+         */
+        public static final int d28=0x7f070061;
+        /** strings 
+         */
+        public static final int d29=0x7f070065;
         public static final int hello_world=0x7f070001;
         public static final int introTitle=0x7f070006;
+        public static final int m110=0x7f070030;
+        public static final int m111=0x7f070034;
+        public static final int m112=0x7f070038;
+        public static final int m113=0x7f07003c;
+        public static final int m114=0x7f070040;
+        public static final int m115=0x7f070044;
+        public static final int m13=0x7f070014;
+        public static final int m14=0x7f070018;
+        public static final int m15=0x7f07001c;
+        public static final int m16=0x7f070020;
+        public static final int m17=0x7f070024;
+        public static final int m18=0x7f070028;
+        public static final int m19=0x7f07002c;
+        public static final int m21=0x7f070048;
+        public static final int m210=0x7f07006c;
+        public static final int m211=0x7f070070;
+        public static final int m212=0x7f070074;
+        public static final int m213=0x7f070078;
+        public static final int m214=0x7f07007c;
+        public static final int m215=0x7f070080;
+        public static final int m22=0x7f07004c;
+        public static final int m23=0x7f070050;
+        public static final int m24=0x7f070054;
+        public static final int m25=0x7f070058;
+        public static final int m26=0x7f07005c;
+        public static final int m27=0x7f070060;
+        public static final int m28=0x7f070064;
+        public static final int m29=0x7f070068;
         public static final int menu_settings=0x7f070002;
         public static final int parishTitle=0x7f07000c;
         public static final int prayersTitle=0x7f070008;
-        public static final int questions=0x7f070013;
         public static final int quetionsTitle=0x7f070009;
         public static final int sacramentsTitle=0x7f070007;
         public static final int title_activity_main_menu=0x7f070003;
+        public static final int w110=0x7f07002f;
+        public static final int w111=0x7f070033;
+        public static final int w112=0x7f070037;
+        public static final int w113=0x7f07003b;
+        public static final int w114=0x7f07003f;
+        public static final int w115=0x7f070043;
+        public static final int w13=0x7f070013;
+        public static final int w14=0x7f070017;
+        public static final int w15=0x7f07001b;
+        public static final int w16=0x7f07001f;
+        public static final int w17=0x7f070023;
+        public static final int w18=0x7f070027;
+        public static final int w19=0x7f07002b;
+        public static final int w21=0x7f070047;
+        public static final int w210=0x7f07006b;
+        public static final int w211=0x7f07006f;
+        public static final int w212=0x7f070073;
+        public static final int w213=0x7f070077;
+        public static final int w214=0x7f07007b;
+        public static final int w215=0x7f07007f;
+        public static final int w22=0x7f07004b;
+        public static final int w23=0x7f07004f;
+        public static final int w24=0x7f070053;
+        public static final int w25=0x7f070057;
+        public static final int w26=0x7f07005b;
+        public static final int w27=0x7f07005f;
+        public static final int w28=0x7f070063;
+        public static final int w29=0x7f070067;
         public static final int whataboutTitle=0x7f070004;
     }
     public static final class style {
