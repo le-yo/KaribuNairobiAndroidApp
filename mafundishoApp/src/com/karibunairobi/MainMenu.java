@@ -21,26 +21,17 @@ public class MainMenu extends DashBoardActivity {
 		Intent intent;
 		Bundle bundle = new Bundle();
 		switch (v.getId()) {
-		/*case R.id.btn_intro:
-			intent = new Intent(this, Introduction.class);
-			startActivity(intent);
-			break;
 
-		case R.id.btn_sacraments:
-			intent = new Intent(this, Sacraments.class);
-			startActivity(intent);
-			break;*/
-
-		case R.id.btn_prayers:
+		case R.id.btn_hotels:
 			intent = new Intent(this, Listview.class);			
 			bundle.putString("pos", "1");
-			bundle.putInt("background",R.drawable.hilton);
+			bundle.putInt("background",R.drawable.nai);
 			bundle.putString("Header", "Hotels & Restaurants");
 			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
 
-		case R.id.btn_questions:
+		case R.id.btn_supermarkets:
 			intent = new Intent(this, Listview.class);			
 			bundle.putString("pos", "2");
 			bundle.putInt("background",R.drawable.hilton);
@@ -49,32 +40,36 @@ public class MainMenu extends DashBoardActivity {
 			startActivity(intent);
 			break;
 
-		case R.id.btn_comm:
+		case R.id.btn_cabs:
 			intent = new Intent(this, Listview.class);			
 			bundle.putString("pos", "3");
 			bundle.putInt("background",R.drawable.hilton);
+			bundle.putString("Header", "Cabs Services");
 			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
 
-		case R.id.btn_creed:
+		case R.id.btn_attractions:
 			intent = new Intent(this, Listview.class);			
 			bundle.putString("pos", "4");
 			bundle.putInt("background",R.drawable.hilton);
+			bundle.putString("Header", "Attractions");
 			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
-		case R.id.btn_parish:
+		case R.id.btn_bars:
 			intent = new Intent(this, Listview.class);			
 			bundle.putString("pos", "5");
 			bundle.putInt("background",R.drawable.hilton);
+			bundle.putString("Header", "Bars & Clubs");
 			intent.putExtras(bundle);
 			startActivity(intent);
 			break;
-		case R.id.btn_about:
+		case R.id.btn_bus:
 			intent = new Intent(this, Listview.class);			
 			bundle.putString("pos", "6");
 			bundle.putInt("background",R.drawable.hilton);
+			bundle.putString("Header", "Bus Stations");
 			intent.putExtras(bundle);
 			startActivity(intent);
 			break;

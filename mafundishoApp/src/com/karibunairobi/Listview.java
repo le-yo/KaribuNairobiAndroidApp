@@ -38,6 +38,11 @@ public class Listview extends Activity {
 
 		case 1:
 			myItems.add(new ListItems("Hilton", R.drawable.hilton, "Needing work"));
+			//for each list item, we need the description we can use the position
+			//we need the latitude and longitude of the map we can use the position and back up with poss
+			//we need the contacts
+			//we need the website
+			
 			myItems.add(new ListItems("Nairobi Serena", R.drawable.serena, "Lovable"));
 			myItems.add(new ListItems("Nairobi Safari Club", R.drawable.safariclub, "Wet"));
 			myItems.add(new ListItems("Laico Regency", R.drawable.laicoregency, "Fast!"));
@@ -81,15 +86,42 @@ public class Listview extends Activity {
 			myItems.add(new ListItems("Tuskys Express", R.drawable.tuskys, "Fast!"));
 			myItems.add(new ListItems("Tuskys Embakasi", R.drawable.tuskys, "Awesome"));
 			myItems.add(new ListItems("Tuskys Chap Chap Adams", R.drawable.tuskys, "Not *very* good")); 
-
-		case R.id.btn_comm:
-			
-
-		case R.id.btn_creed:
-			
-		
-		default:
 			break;
+		case 3:
+			myItems.add(new ListItems("Focus Cabs", R.drawable.yellowcab, "Needing work"));
+			myItems.add(new ListItems("Jatco Cabs", R.drawable.yellowcab, "Lovable"));
+			myItems.add(new ListItems("JimCab Kenya", R.drawable.carsrow, "Wet"));
+			myItems.add(new ListItems("Universal Cabs", R.drawable.yellowcab, "Fast!"));
+			myItems.add(new ListItems("Summit Safaris Cabs", R.drawable.yellowcab, "Awesome"));
+			myItems.add(new ListItems("Burner Cabs Services", R.drawable.yellowcab, "Not *very* good")); 
+			break;
+
+		case 4:
+			myItems.add(new ListItems("Nairobi National Park", R.drawable.yellowcab, "Needing work"));
+			myItems.add(new ListItems("Karen Blixen Museum", R.drawable.yellowcab, "Lovable"));
+			myItems.add(new ListItems("Uhuru Park", R.drawable.carsrow, "Wet"));
+			myItems.add(new ListItems("Nairobi Snake Park", R.drawable.yellowcab, "Fast!"));
+			myItems.add(new ListItems("Nairobi Gallery", R.drawable.yellowcab, "Awesome"));
+			myItems.add(new ListItems("Nairobi National Museum", R.drawable.yellowcab, "Not *very* good"));
+			myItems.add(new ListItems("Mamba Village", R.drawable.yellowcab, "Not *very* good"));
+		break;
+			
+		case 5:
+			myItems.add(new ListItems("The Carnivore Nightclub", R.drawable.yellowcab, "Needing work"));
+			myItems.add(new ListItems("Klub House(K1)", R.drawable.yellowcab, "Lovable"));
+			myItems.add(new ListItems("Rafikiz Bar & Lounge", R.drawable.carsrow, "Wet"));
+			myItems.add(new ListItems("Casablanca", R.drawable.yellowcab, "Fast!"));
+			myItems.add(new ListItems("Taboo", R.drawable.yellowcab, "Awesome"));
+			myItems.add(new ListItems("The Florida Nightclub", R.drawable.yellowcab, "Not *very* good"));
+		break;
+		case 6:
+			myItems.add(new ListItems("The Carnivore Nightclub", R.drawable.yellowcab, "Needing work"));
+			myItems.add(new ListItems("Klub House(K1)", R.drawable.yellowcab, "Lovable"));
+			myItems.add(new ListItems("Rafikiz Bar & Lounge", R.drawable.carsrow, "Wet"));
+			myItems.add(new ListItems("Casablanca", R.drawable.yellowcab, "Fast!"));
+			myItems.add(new ListItems("Taboo", R.drawable.yellowcab, "Awesome"));
+			myItems.add(new ListItems("The Florida Nightclub", R.drawable.yellowcab, "Not *very* good"));
+		break;
 		}
 		
 		
@@ -98,8 +130,10 @@ public class Listview extends Activity {
 	}
 	
 	private void populateListView() {
+		Bundle bundle = getIntent().getExtras();
+		final String Header = bundle.getString("Header");
 		TextView HeaderText = (TextView) findViewById(R.id.txtMade);
-		HeaderText.setText("Hotels and Restaurants");
+		HeaderText.setText(Header);
 		
 		ArrayAdapter<ListItems> adapter = new MyListAdapter();
 		
@@ -117,63 +151,86 @@ public class Listview extends Activity {
 				ListItems clickedCar = myItems.get(position);
 				
 				Intent intent;
-				switch (position) {
-
-				case 0:
-					intent = new Intent(Listview.this, Preview.class);					
-					Bundle bundle = new Bundle();
-					//we need the title of the list
-					//list items
-					//item id to identify it
-					
-	
-	//for each list item we need to bundle up a few things
-					
-			//for the preview we need the background image
-					
-			//for the description we need the background image which will be the same as the preview
-					//for each list item, we need the description
-					//we need the latitude and longitude of the map
-					//we need the contacts string
-					//
-					bundle.putString("lat", "1");
-					bundle.putString("Title", "1");
-					bundle.putString("longi", "34");
-					bundle.putString("uri", "http://devs.mobi");
-					
-					intent.putExtras(bundle);					
-					
-					startActivity(intent);
-					break;
-
-				case R.id.btn_questions: 
-					
-
-				case R.id.btn_comm:
-					intent = new Intent(Listview.this, Commandments.class);
-					startActivity(intent);
-					break;
-
-				case R.id.btn_creed:
-					intent = new Intent(Listview.this, Description.class);
-					startActivity(intent);
-					break;
-				case R.id.btn_parish:
-					intent = new Intent(Listview.this, Parish.class);
-					startActivity(intent);
-					break;
-				case R.id.btn_about:
-					intent = new Intent(Listview.this, About.class);
-					startActivity(intent);
-					break;
-				default:
-					String message = "You clicked position " + position
-					+ " Which is car make " + clickedCar.getMake();
-	Toast.makeText(Listview.this, message, Toast.LENGTH_LONG).show();
-					
-					break;
-				}
-				
+				Bundle bundle = getIntent().getExtras();
+				final String pos = bundle.getString("pos");
+				Integer pos2 = Integer.parseInt(pos);
+				final Integer bg = bundle.getInt("background");
+				intent = new Intent(Listview.this, Preview.class);					
+				Bundle bundle2 = new Bundle();
+				bundle2.putInt("pos", pos2);
+				bundle2.putInt("position", position);
+				bundle2.putInt("background",bg);
+				intent.putExtras(bundle2);
+				startActivity(intent);
+//				
+//				
+//				switch (position) {
+//				
+//
+//				case 1:
+//					intent = new Intent(Listview.this, Preview.class);					
+//					Bundle bundle2 = new Bundle();
+//					bundle2.putString("pos", pos);
+//					bundle2.putInt("position", position);
+//					bundle2.putInt("background",bg);
+//					intent.putExtras(bundle2);					
+//					
+//					startActivity(intent);
+//				
+//					//bundle2.putInt("description",R.drawable.hilton);
+//					
+//					
+//	
+//	//for each list item we need to bundle up a few things
+//					
+//			//for the preview we need the background image which is shared
+//					
+//			//for each list item we need to get the description we need the background image
+//					//background
+//					//for each list item, we need the description
+//					//we need the latitude and longitude of the map
+//					//we need the contacts
+//					//we need the website
+//					//
+//					//bundle.putInteger(background, value);
+////					bundle.putString("lat", "1");
+////					bundle.putString("Title", "1");
+////					bundle.putString("longi", "34");
+////					bundle.putString("uri", "http://devs.mobi");
+//					
+//		//			intent.putExtras(bundle2);					
+//					
+//					startActivity(intent);
+//					break;
+//
+//				case 2: 
+//					
+//
+//				case 3:
+//					intent = new Intent(Listview.this, Commandments.class);
+//					startActivity(intent);
+//					break;
+//
+//				case 4:
+//					intent = new Intent(Listview.this, Description.class);
+//					startActivity(intent);
+//					break;
+//				case 5:
+//					intent = new Intent(Listview.this, Parish.class);
+//					startActivity(intent);
+//					break;
+//				case 6:
+//					intent = new Intent(Listview.this, About.class);
+//					startActivity(intent);
+//					break;
+//				default:
+//					String message = "You clicked position " + position
+//					+ " Which is car make " + clickedCar.getMake();
+//	Toast.makeText(Listview.this, message, Toast.LENGTH_LONG).show();
+//					
+//					break;
+//				}
+//				
 				
 			}
 		});

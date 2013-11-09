@@ -54,7 +54,7 @@
             android:orientation="horizontal" >
 
             <Button
-                android:id="@+id/btn_prayers"
+                android:id="@+id/btn_hotels"
                 style="@style/HomeButton"
                 android:drawableTop="@drawable/hotels_"
                 android:onClick="onButtonClicker"
@@ -64,7 +64,7 @@
                  />
 
             <Button
-                android:id="@+id/btn_questions"
+                android:id="@+id/btn_supermarkets"
                 style="@style/HomeButton"
                 android:drawableTop="@drawable/cart_"
                 android:onClick="onButtonClicker"
@@ -80,7 +80,7 @@
             android:orientation="horizontal" >
 
             <Button
-                android:id="@+id/btn_comm"
+                android:id="@+id/btn_cabs"
                 style="@style/HomeButton"
                 android:drawableTop="@drawable/taxi_"
                 android:onClick="onButtonClicker"
@@ -89,7 +89,7 @@
                  />
 
             <Button
-                android:id="@+id/btn_creed"
+                android:id="@+id/btn_attractions"
                 style="@style/HomeButton"
                 android:drawableTop="@drawable/attractions_"
                 android:onClick="onButtonClicker"
@@ -107,7 +107,7 @@
              >
 
             <Button
-                android:id="@+id/btn_parish"
+                android:id="@+id/btn_bars"
                 style="@style/HomeButton"
                 android:drawableTop="@drawable/bars_"
                 android:onClick="onButtonClicker"
@@ -116,7 +116,7 @@
                  />
 
             <Button
-                android:id="@+id/btn_about"
+                android:id="@+id/btn_bus"
                 style="@style/HomeButton"
                 android:drawableTop="@drawable/bus_" 
                 android:onClick="onButtonClicker"
