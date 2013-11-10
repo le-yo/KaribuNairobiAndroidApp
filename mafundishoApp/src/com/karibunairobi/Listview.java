@@ -72,41 +72,46 @@ public class Listview extends Activity {
 			myItems.add(new ListItems("Tuskys Greenspan", R.drawable.tuskys, "Wet"));
 			myItems.add(new ListItems("Tuskys Express", R.drawable.tuskys, "Fast!"));
 			myItems.add(new ListItems("Tuskys Embakasi", R.drawable.tuskys, "Awesome"));
-		
+			
+			break;
+			
 		case 3:
 			myItems.add(new ListItems("Focus Cabs", R.drawable.focuscabs, "Needing work"));
 			myItems.add(new ListItems("Jatco Cabs", R.drawable.jatco, "Lovable"));
 			myItems.add(new ListItems("JimCab Kenya", R.drawable.jimcab, "Wet"));
 			myItems.add(new ListItems("Universal Cabs", R.drawable.yellowcab, "Fast!"));
 			myItems.add(new ListItems("Summit Safaris Cabs", R.drawable.summit, "Awesome"));
-			myItems.add(new ListItems("Burner Cabs Services", R.drawable.universalcabs, "Not *very* good")); 
+			
 			break;
 
 		case 4:
 			myItems.add(new ListItems("Nairobi National Park", R.drawable.kwslogo, "Needing work"));
 			myItems.add(new ListItems("Karen Blixen Museum", R.drawable.karenblix, "Lovable"));
+			myItems.add(new ListItems("Nairobi Gallery", R.drawable.nmknewlogo, "Awesome"));
+			myItems.add(new ListItems("Nairobi National Museum", R.drawable.nmknewlogo, "Not *very* good"));
+			myItems.add(new ListItems("Nairobi Snake Park", R.drawable.nmknewlogo, "Fast!"));
+			myItems.add(new ListItems("Mamba Village", R.drawable.mambavile, "Not *very* good"));
 			myItems.add(new ListItems("Uhuru Park", R.drawable.uhurupark, "Wet"));
-			myItems.add(new ListItems("Nairobi Snake Park", R.drawable.yellowcab, "Fast!"));
-			myItems.add(new ListItems("Nairobi Gallery", R.drawable.yellowcab, "Awesome"));
-			myItems.add(new ListItems("Nairobi National Museum", R.drawable.yellowcab, "Not *very* good"));
-			myItems.add(new ListItems("Mamba Village", R.drawable.yellowcab, "Not *very* good"));
+			
 		break;
 			
 		case 5:
-			myItems.add(new ListItems("The Carnivore Nightclub", R.drawable.yellowcab, "Needing work"));
-			myItems.add(new ListItems("Klub House(K1)", R.drawable.yellowcab, "Lovable"));
-			myItems.add(new ListItems("Rafikiz Bar & Lounge", R.drawable.carsrow, "Wet"));
-			myItems.add(new ListItems("Casablanca", R.drawable.yellowcab, "Fast!"));
+			myItems.add(new ListItems("The Carnivore Nightclub", R.drawable.carnivorelogo, "Needing work"));
+			myItems.add(new ListItems("Klub House(K1)", R.drawable.k1logo, "Lovable"));
+			myItems.add(new ListItems("Rafikiz Bar & Lounge", R.drawable.rafikiz, "Wet"));
+			myItems.add(new ListItems("Casablanca", R.drawable.casablanca, "Fast!"));
 			myItems.add(new ListItems("Taboo", R.drawable.yellowcab, "Awesome"));
-			myItems.add(new ListItems("The Florida Nightclub", R.drawable.yellowcab, "Not *very* good"));
+			
 		break;
 		case 6:
-			myItems.add(new ListItems("The Carnivore Nightclub", R.drawable.yellowcab, "Needing work"));
-			myItems.add(new ListItems("Klub House(K1)", R.drawable.yellowcab, "Lovable"));
-			myItems.add(new ListItems("Rafikiz Bar & Lounge", R.drawable.carsrow, "Wet"));
-			myItems.add(new ListItems("Casablanca", R.drawable.yellowcab, "Fast!"));
-			myItems.add(new ListItems("Taboo", R.drawable.yellowcab, "Awesome"));
-			myItems.add(new ListItems("The Florida Nightclub", R.drawable.yellowcab, "Not *very* good"));
+			
+			myItems.add(new ListItems("Embakasi", R.drawable.bus_, "Needing work"));
+			myItems.add(new ListItems("Parklands", R.drawable.bus_, "Lovable"));
+			myItems.add(new ListItems("Westlands", R.drawable.bus_, "Wet"));
+			myItems.add(new ListItems("Langata", R.drawable.bus_, "Fast!"));
+			myItems.add(new ListItems("Karen", R.drawable.bus_, "Awesome"));
+			myItems.add(new ListItems("Upperhill", R.drawable.bus_, "Not *very* good"));
+			
 		break;
 		}
 		
