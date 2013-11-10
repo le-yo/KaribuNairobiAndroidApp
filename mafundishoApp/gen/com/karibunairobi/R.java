@@ -180,181 +180,188 @@ public final class R {
         public static final int ServiceofCommunionSacraments=0x7f070010;
         /** strings 
          */
-        public static final int about=0x7f070081;
+        public static final int about=0x7f070088;
         public static final int aboutTitle=0x7f07000d;
         public static final int app_name=0x7f070000;
         public static final int c11=0x7f070012;
-        public static final int c110=0x7f07002e;
-        public static final int c111=0x7f070032;
-        public static final int c112=0x7f070036;
-        public static final int c113=0x7f07003a;
-        public static final int c114=0x7f07003e;
-        public static final int c115=0x7f070042;
-        public static final int c14=0x7f070016;
-        public static final int c15=0x7f07001a;
-        public static final int c16=0x7f07001e;
-        public static final int c17=0x7f070022;
-        public static final int c18=0x7f070026;
-        public static final int c19=0x7f07002a;
-        public static final int c21=0x7f070046;
-        public static final int c210=0x7f07006a;
-        public static final int c211=0x7f07006e;
-        public static final int c212=0x7f070072;
-        public static final int c213=0x7f070076;
-        public static final int c214=0x7f07007a;
-        public static final int c215=0x7f07007e;
-        public static final int c22=0x7f07004a;
-        public static final int c23=0x7f07004e;
-        public static final int c24=0x7f070052;
-        public static final int c25=0x7f070056;
-        public static final int c26=0x7f07005a;
-        public static final int c27=0x7f07005e;
-        public static final int c28=0x7f070062;
-        public static final int c29=0x7f070066;
+        public static final int c110=0x7f070035;
+        public static final int c111=0x7f070039;
+        public static final int c112=0x7f07003d;
+        public static final int c113=0x7f070041;
+        public static final int c114=0x7f070045;
+        public static final int c115=0x7f070049;
+        public static final int c12=0x7f070015;
+        public static final int c13=0x7f070019;
+        public static final int c14=0x7f07001d;
+        public static final int c15=0x7f070021;
+        public static final int c16=0x7f070025;
+        public static final int c17=0x7f070029;
+        public static final int c18=0x7f07002d;
+        public static final int c19=0x7f070031;
+        public static final int c21=0x7f07004d;
+        public static final int c210=0x7f070071;
+        public static final int c211=0x7f070075;
+        public static final int c212=0x7f070079;
+        public static final int c213=0x7f07007d;
+        public static final int c214=0x7f070081;
+        public static final int c215=0x7f070085;
+        public static final int c22=0x7f070051;
+        public static final int c23=0x7f070055;
+        public static final int c24=0x7f070059;
+        public static final int c25=0x7f07005d;
+        public static final int c26=0x7f070061;
+        public static final int c27=0x7f070065;
+        public static final int c28=0x7f070069;
+        public static final int c29=0x7f07006d;
         public static final int commandmentsTitle=0x7f07000a;
         public static final int creedTitle=0x7f07000b;
         public static final int d11=0x7f070011;
         /** strings 
          */
-        public static final int d110=0x7f07002d;
+        public static final int d110=0x7f070034;
         /** strings 
          */
-        public static final int d111=0x7f070031;
+        public static final int d111=0x7f070038;
         /** strings 
          */
-        public static final int d112=0x7f070035;
+        public static final int d112=0x7f07003c;
         /** strings 
          */
-        public static final int d113=0x7f070039;
+        public static final int d113=0x7f070040;
         /** strings 
          */
-        public static final int d114=0x7f07003d;
+        public static final int d114=0x7f070044;
         /** strings 
          */
-        public static final int d115=0x7f070041;
-        public static final int d14=0x7f070015;
-        public static final int d15=0x7f070019;
+        public static final int d115=0x7f070048;
+        public static final int d12=0x7f070014;
+        public static final int d13=0x7f070018;
+        public static final int d14=0x7f07001c;
+        public static final int d15=0x7f070020;
         /** strings 
          */
-        public static final int d16=0x7f07001d;
+        public static final int d16=0x7f070024;
         /** strings 
          */
-        public static final int d17=0x7f070021;
+        public static final int d17=0x7f070028;
         /** strings 
          */
-        public static final int d18=0x7f070025;
+        public static final int d18=0x7f07002c;
         /** strings 
          */
-        public static final int d19=0x7f070029;
+        public static final int d19=0x7f070030;
         /** strings 
          */
-        public static final int d21=0x7f070045;
+        public static final int d21=0x7f07004c;
         /** strings 
          */
-        public static final int d210=0x7f070069;
+        public static final int d210=0x7f070070;
         /** strings 
          */
-        public static final int d211=0x7f07006d;
+        public static final int d211=0x7f070074;
         /** strings 
          */
-        public static final int d212=0x7f070071;
+        public static final int d212=0x7f070078;
         /** strings 
          */
-        public static final int d213=0x7f070075;
+        public static final int d213=0x7f07007c;
         /** strings 
          */
-        public static final int d214=0x7f070079;
+        public static final int d214=0x7f070080;
         /** strings 
          */
-        public static final int d215=0x7f07007d;
+        public static final int d215=0x7f070084;
         /** strings 
          */
-        public static final int d22=0x7f070049;
+        public static final int d22=0x7f070050;
         /** strings 
          */
-        public static final int d23=0x7f07004d;
+        public static final int d23=0x7f070054;
         /** strings 
          */
-        public static final int d24=0x7f070051;
+        public static final int d24=0x7f070058;
         /** strings 
          */
-        public static final int d25=0x7f070055;
+        public static final int d25=0x7f07005c;
         /** strings 
          */
-        public static final int d26=0x7f070059;
+        public static final int d26=0x7f070060;
         /** strings 
          */
-        public static final int d27=0x7f07005d;
+        public static final int d27=0x7f070064;
         /** strings 
          */
-        public static final int d28=0x7f070061;
+        public static final int d28=0x7f070068;
         /** strings 
          */
-        public static final int d29=0x7f070065;
+        public static final int d29=0x7f07006c;
         public static final int hello_world=0x7f070001;
         public static final int introTitle=0x7f070006;
-        public static final int m110=0x7f070030;
-        public static final int m111=0x7f070034;
-        public static final int m112=0x7f070038;
-        public static final int m113=0x7f07003c;
-        public static final int m114=0x7f070040;
-        public static final int m115=0x7f070044;
-        public static final int m13=0x7f070014;
-        public static final int m14=0x7f070018;
-        public static final int m15=0x7f07001c;
-        public static final int m16=0x7f070020;
-        public static final int m17=0x7f070024;
-        public static final int m18=0x7f070028;
-        public static final int m19=0x7f07002c;
-        public static final int m21=0x7f070048;
-        public static final int m210=0x7f07006c;
-        public static final int m211=0x7f070070;
-        public static final int m212=0x7f070074;
-        public static final int m213=0x7f070078;
-        public static final int m214=0x7f07007c;
-        public static final int m215=0x7f070080;
-        public static final int m22=0x7f07004c;
-        public static final int m23=0x7f070050;
-        public static final int m24=0x7f070054;
-        public static final int m25=0x7f070058;
-        public static final int m26=0x7f07005c;
-        public static final int m27=0x7f070060;
-        public static final int m28=0x7f070064;
-        public static final int m29=0x7f070068;
+        public static final int m11=0x7f070013;
+        public static final int m110=0x7f070037;
+        public static final int m111=0x7f07003b;
+        public static final int m112=0x7f07003f;
+        public static final int m113=0x7f070043;
+        public static final int m114=0x7f070047;
+        public static final int m115=0x7f07004b;
+        public static final int m12=0x7f070016;
+        public static final int m13=0x7f07001b;
+        public static final int m14=0x7f07001f;
+        public static final int m15=0x7f070023;
+        public static final int m16=0x7f070027;
+        public static final int m17=0x7f07002b;
+        public static final int m18=0x7f07002f;
+        public static final int m19=0x7f070033;
+        public static final int m21=0x7f07004f;
+        public static final int m210=0x7f070073;
+        public static final int m211=0x7f070077;
+        public static final int m212=0x7f07007b;
+        public static final int m213=0x7f07007f;
+        public static final int m214=0x7f070083;
+        public static final int m215=0x7f070087;
+        public static final int m22=0x7f070053;
+        public static final int m23=0x7f070057;
+        public static final int m24=0x7f07005b;
+        public static final int m25=0x7f07005f;
+        public static final int m26=0x7f070063;
+        public static final int m27=0x7f070067;
+        public static final int m28=0x7f07006b;
+        public static final int m29=0x7f07006f;
         public static final int menu_settings=0x7f070002;
         public static final int parishTitle=0x7f07000c;
         public static final int prayersTitle=0x7f070008;
         public static final int quetionsTitle=0x7f070009;
         public static final int sacramentsTitle=0x7f070007;
         public static final int title_activity_main_menu=0x7f070003;
-        public static final int w110=0x7f07002f;
-        public static final int w111=0x7f070033;
-        public static final int w112=0x7f070037;
-        public static final int w113=0x7f07003b;
-        public static final int w114=0x7f07003f;
-        public static final int w115=0x7f070043;
-        public static final int w13=0x7f070013;
-        public static final int w14=0x7f070017;
-        public static final int w15=0x7f07001b;
-        public static final int w16=0x7f07001f;
-        public static final int w17=0x7f070023;
-        public static final int w18=0x7f070027;
-        public static final int w19=0x7f07002b;
-        public static final int w21=0x7f070047;
-        public static final int w210=0x7f07006b;
-        public static final int w211=0x7f07006f;
-        public static final int w212=0x7f070073;
-        public static final int w213=0x7f070077;
-        public static final int w214=0x7f07007b;
-        public static final int w215=0x7f07007f;
-        public static final int w22=0x7f07004b;
-        public static final int w23=0x7f07004f;
-        public static final int w24=0x7f070053;
-        public static final int w25=0x7f070057;
-        public static final int w26=0x7f07005b;
-        public static final int w27=0x7f07005f;
-        public static final int w28=0x7f070063;
-        public static final int w29=0x7f070067;
+        public static final int w110=0x7f070036;
+        public static final int w111=0x7f07003a;
+        public static final int w112=0x7f07003e;
+        public static final int w113=0x7f070042;
+        public static final int w114=0x7f070046;
+        public static final int w115=0x7f07004a;
+        public static final int w12=0x7f070017;
+        public static final int w13=0x7f07001a;
+        public static final int w14=0x7f07001e;
+        public static final int w15=0x7f070022;
+        public static final int w16=0x7f070026;
+        public static final int w17=0x7f07002a;
+        public static final int w18=0x7f07002e;
+        public static final int w19=0x7f070032;
+        public static final int w21=0x7f07004e;
+        public static final int w210=0x7f070072;
+        public static final int w211=0x7f070076;
+        public static final int w212=0x7f07007a;
+        public static final int w213=0x7f07007e;
+        public static final int w214=0x7f070082;
+        public static final int w215=0x7f070086;
+        public static final int w22=0x7f070052;
+        public static final int w23=0x7f070056;
+        public static final int w24=0x7f07005a;
+        public static final int w25=0x7f07005e;
+        public static final int w26=0x7f070062;
+        public static final int w27=0x7f070066;
+        public static final int w28=0x7f07006a;
+        public static final int w29=0x7f07006e;
         public static final int whataboutTitle=0x7f070004;
     }
     public static final class style {

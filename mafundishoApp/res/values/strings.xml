@@ -24,18 +24,17 @@
 Cell: +254 724 775027\n
        +254 739 208630\n
 Tel: 020 260 8702\n
-        020 228 8000\n
+        020 228 8000\n</string>
     <string name="m11">34.87,1.987</string>
-	
-    <string name="d12">Nairobi Serena Hotel is a 5 Star wonder combining both modern design and traditional artwork with rooms designed along pan- African themes. It’s well equipped with a heated swimming pool gym and spa treatment centre and conference facilities.</string>
-    <string name="c12">Kenyatta Avenue\n
+    
+     <string name="d12">Nairobi Serena Hotel is a 5 Star wonder combining both modern design and traditional artwork with rooms designed along pan African themes. Its well equipped with a heated swimming pool gym and spa treatment centre and conference facilities.</string>
+      <string name="c12">Kenyatta Avenue\n
 P.O. Box 46302, City Centre, 00100\n
 Tel: +254 20 2822000\n
-Nairobi@serena.co.ke\n
-        
-    </string>
-    <string name="w12">http://serena.co.ke</string>
+Nairobi@serena.co.ke\n</string>
     <string name="m12">34.87,1.987</string>
+    <string name="w12">http://serena.co.ke</string>
+    
 	   
 <string name="d13">Nairobi Safari club offer 5 Star services elegant accommodation and modern amenities.  All accommodation is suites with internet access, satellite television direct dial telephones and Jacuzzi- style tubs in the bathrooms.  The safari restaurant offers upscale fine dining with an international menu. The hotel is equipped with a gym steam bath and sauna and a heated swimming pool.  It also has conference rooms serving a variety of meeting and social events.</string>
     <string name="c13">Koinange Street, and University Way\n
@@ -47,7 +46,7 @@ Cellphone: 254-722209842 / 722208782 / \n
   Reservation: reservations@nairobisafariclub.com\n
         </string>
         
-    </string>
+    
     <string name="w13">http://nairobisafariclub.com</string>
     <string name="m13">34.87,1.987</string>
    
