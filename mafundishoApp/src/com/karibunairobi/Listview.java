@@ -55,46 +55,37 @@ public class Listview extends Activity {
 			break;
 
 		case 2:
-			myItems.add(new ListItems("Uchumi City Square", R.drawable.uchumilarge, "Needing work")); 
+			myItems.add(new ListItems("Uchumi Westlands", R.drawable.uchumilarge, "Out of this world"));
 			myItems.add(new ListItems("Uchumi Langata Hyper", R.drawable.uchumilarge, "Lovable"));
 			myItems.add(new ListItems("Uchumi Capital Centre", R.drawable.uchumilarge, "Wet"));
 			myItems.add(new ListItems("Uchumi Ngong Hyper", R.drawable.uchumilarge, "Fast!"));
 			myItems.add(new ListItems("Uchumi Sarit", R.drawable.uchumilarge, "Awesome"));
-			myItems.add(new ListItems("Uchumi Taj Mall", R.drawable.uchumilarge, "Not *very* good")); 
-			myItems.add(new ListItems("Uchumi Adams Arcade", R.drawable.uchumilarge, "Out of this world"));
-			myItems.add(new ListItems("Uchumi Buruburu", R.drawable.uchumilarge, "Out of this world"));
-			myItems.add(new ListItems("Uchumi Ongata Rongai", R.drawable.uchumilarge, "Out of this world"));
-			myItems.add(new ListItems("Uchumi Westlands", R.drawable.uchumilarge, "Out of this world"));
+			
 			myItems.add(new ListItems("Nakumatt Mega", R.drawable.nakumatt, "Out of this world"));
 			myItems.add(new ListItems("Nakumatt Ukay", R.drawable.nakumatt, "Out of this world"));
 			myItems.add(new ListItems("Nakumatt Lifestyle", R.drawable.nakumatt, "Out of this world"));
 			myItems.add(new ListItems("Nakumatt Embakasi", R.drawable.nakumatt, "Out of this world"));
-			myItems.add(new ListItems("Nakumatt Karen", R.drawable.nakumatt, "Out of this world")); 
 			myItems.add(new ListItems("Nakumatt Juction", R.drawable.nakumatt, "Out of this world"));
-			myItems.add(new ListItems("Nakumatt Ronald Ngala", R.drawable.nakumatt, "Out of this world"));
-			myItems.add(new ListItems("Nakumatt Prestige", R.drawable.nakumatt, "Out of this world"));
-			myItems.add(new ListItems("Nakumatt Galleria", R.drawable.nakumatt, "Out of this world"));
-			myItems.add(new ListItems("Nakumatt Village Market", R.drawable.nakumatt, "Out of this world")); 
+			
 			myItems.add(new ListItems("Tuskys T-Mall", R.drawable.tuskys, "Needing work"));
 			myItems.add(new ListItems("Tuskys Imara", R.drawable.tuskys, "Lovable"));
 			myItems.add(new ListItems("Tuskys Greenspan", R.drawable.tuskys, "Wet"));
 			myItems.add(new ListItems("Tuskys Express", R.drawable.tuskys, "Fast!"));
 			myItems.add(new ListItems("Tuskys Embakasi", R.drawable.tuskys, "Awesome"));
-			myItems.add(new ListItems("Tuskys Chap Chap Adams", R.drawable.tuskys, "Not *very* good")); 
-			break;
+		
 		case 3:
-			myItems.add(new ListItems("Focus Cabs", R.drawable.yellowcab, "Needing work"));
-			myItems.add(new ListItems("Jatco Cabs", R.drawable.yellowcab, "Lovable"));
-			myItems.add(new ListItems("JimCab Kenya", R.drawable.carsrow, "Wet"));
+			myItems.add(new ListItems("Focus Cabs", R.drawable.focuscabs, "Needing work"));
+			myItems.add(new ListItems("Jatco Cabs", R.drawable.jatco, "Lovable"));
+			myItems.add(new ListItems("JimCab Kenya", R.drawable.jimcab, "Wet"));
 			myItems.add(new ListItems("Universal Cabs", R.drawable.yellowcab, "Fast!"));
-			myItems.add(new ListItems("Summit Safaris Cabs", R.drawable.yellowcab, "Awesome"));
-			myItems.add(new ListItems("Burner Cabs Services", R.drawable.yellowcab, "Not *very* good")); 
+			myItems.add(new ListItems("Summit Safaris Cabs", R.drawable.summit, "Awesome"));
+			myItems.add(new ListItems("Burner Cabs Services", R.drawable.universalcabs, "Not *very* good")); 
 			break;
 
 		case 4:
-			myItems.add(new ListItems("Nairobi National Park", R.drawable.yellowcab, "Needing work"));
-			myItems.add(new ListItems("Karen Blixen Museum", R.drawable.yellowcab, "Lovable"));
-			myItems.add(new ListItems("Uhuru Park", R.drawable.carsrow, "Wet"));
+			myItems.add(new ListItems("Nairobi National Park", R.drawable.kwslogo, "Needing work"));
+			myItems.add(new ListItems("Karen Blixen Museum", R.drawable.karenblix, "Lovable"));
+			myItems.add(new ListItems("Uhuru Park", R.drawable.uhurupark, "Wet"));
 			myItems.add(new ListItems("Nairobi Snake Park", R.drawable.yellowcab, "Fast!"));
 			myItems.add(new ListItems("Nairobi Gallery", R.drawable.yellowcab, "Awesome"));
 			myItems.add(new ListItems("Nairobi National Museum", R.drawable.yellowcab, "Not *very* good"));

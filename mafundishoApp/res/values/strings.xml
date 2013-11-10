@@ -25,14 +25,14 @@ Cell: +254 724 775027\n
        +254 739 208630\n
 Tel: 020 260 8702\n
         020 228 8000\n</string>
-    <string name="m11">34.87,1.987</string>
+    <string name="m11">36.81866,-1.2843</string>
     
      <string name="d12">Nairobi Serena Hotel is a 5 Star wonder combining both modern design and traditional artwork with rooms designed along pan African themes. Its well equipped with a heated swimming pool gym and spa treatment centre and conference facilities.</string>
       <string name="c12">Kenyatta Avenue\n
 P.O. Box 46302, City Centre, 00100\n
 Tel: +254 20 2822000\n
 Nairobi@serena.co.ke\n</string>
-    <string name="m12">34.87,1.987</string>
+    <string name="m12">36.8186,-1.28374</string>
     <string name="w12">http://serena.co.ke</string>
     
 	   
@@ -48,7 +48,7 @@ Cellphone: 254-722209842 / 722208782 / \n
         
     
     <string name="w13">http://nairobisafariclub.com</string>
-    <string name="m13">34.87,1.987</string>
+    <string name="m13">36.81745,-1.28049</string>
    
 <string name="d14">Laico Regency Hotel caters mainly to the growing demand of business travelers and congress seminars organizers. It offers quality accommodation as well as inspiring conference facilities. It offers quality services to ensure guests’ comfort at all times within a warm and welcoming atmosphere.</string>
     <string name="c14">10 Market Street, Uhuru Highway\n
@@ -61,7 +61,7 @@ Email: reservations@laicoregencyhotel.co.ke\n
         
     </string>
     <string name="w14">http://laicoregencyhotel.co.ke</string>
-    <string name="m14">34.87,1.987</string>
+    <string name="m14">36.81677,-1.28383</string>
 	
 	
 	
@@ -76,7 +76,7 @@ EMAIL: Kenya.reservations@fairmont.com\n
         
     </string>
     <string name="w15">http:fairmont.com//</string>
-    <string name="m15">34.87,1.987</string>
+    <string name="m15">36.8167,-1.2771</string>
 	<!--strings -->
 	
 	
@@ -92,7 +92,7 @@ EMAIL: reservations@panarihotels.com\n
         
     </string>
     <string name="w16">http://panarihotels.com</string>
-    <string name="m16">34.87,1.987</string>
+    <string name="m16">36.85587,-1.32855</string>
 	<!--strings -->
 	
 	   
@@ -106,20 +106,20 @@ EMAIL: info@ole-serenihotel.com\n
         
     </string>
     <string name="w17">http://ole-serenihotel.com</string>
-    <string name="m17">34.87,1.987</string>
+    <string name="m17">36.84049,-1.32092</string>
 	<!--strings -->
 	
 	
 	   
-<string name="d18">The Giraffe is a unique, exciting and stylish place to stay. It is in close proximity to the many giraffes who wander about the grounds. It offers amazing accommodation with six en-suite bedrooms with one made specially for children. It allows guests to organize events for upto 20 people.</string>
+<string name="d18">The Giraffe Manor is a unique, exciting and stylish place to stay. It is in close proximity to the many giraffes who wander about the grounds. It offers amazing accommodation with six en-suite bedrooms with one made specially for children. It allows guests to organize events for upto 20 people.</string>
     <string name="c18">PO Box 15004, Langata, 00509\n
 No: 020 2513166\n
 
         
         
     </string>
-    <string name="w18">http://</string>
-    <string name="m18">34.87,1.987</string>
+    <string name="w18">http://giraffemanor.com</string>
+    <string name="m18">36.7445,-1.3744</string>
 	<!--strings -->
 	
 	   
@@ -128,7 +128,7 @@ No: 020 2513166\n
         
     </string>
     <string name="w19">http://</string>
-    <string name="m19">34.87,1.987</string>
+    <string name="m19">36.75204,-1.33160</string>
 	<!--strings -->
 	
 	   
@@ -140,18 +140,18 @@ Tel: +254 020 313564/5\n
         
     </string>
     <string name="w110">http://</string>
-    <string name="m110">34.87,1.987</string>
+    <string name="m110">36.82280,-1.28585</string>
 	<!--strings -->
 	
 	   
-<string name="d111">The thorn Tree café is a historic open-air bistro style café has been a popular meeting place for travelers and business people since 1959.  There is live Jazz, Rock, Reggae, African fusion, and soul music make for daily evening entertainment. The café serves a wide range of dishes made to perfection in the most original ways possible.</string>
+<string name="d111">The Thorn Tree café is a historic open-air bistro style café has been a popular meeting place for travelers and business people since 1959.  There is live Jazz, Rock, Reggae, African fusion, and soul music make for daily evening entertainment. The café serves a wide range of dishes made to perfection in the most original ways possible.</string>
     <string name="c111">Sarova Stanley, Standard Strt, City Centre\n
 Tel: +254 (0)20 228830 Ext 8027/8047/807\n
         
         
     </string>
     <string name="w111">http://</string>
-    <string name="m111">34.87,1.987</string>
+    <string name="m111">36.82280,-1.2585</string>
 	<!--strings -->
 	
 	
@@ -166,7 +166,7 @@ Fax: +254 (0) 20 2725184\n
         
     </string>
     <string name="w112">http://</string>
-    <string name="m112">34.87,1.987</string>
+    <string name="m112">36.8147,-1.2857</string>
 	<!--strings -->
 	
 	
@@ -179,7 +179,7 @@ Tel: 0708 749927\n
 
     </string>
     <string name="w113">http://</string>
-    <string name="m113">34.87,1.987</string>
+    <string name="m113">36.81875,-1.28494</string>
 	<!--strings -->
 	
 	
@@ -194,17 +194,18 @@ Tel: 0708 783377\n
             
     </string>
     <string name="w114">http://</string>
-    <string name="m114">34.87,1.987</string>
+    <string name="m114">36.82210,-1.28494</string>
 	<!--strings -->
 	
 	
 	   
-<string name="d115"></string>
-    <string name="c115">
-        
+<string name="d115">Cafe Deli is an amazing hangout with a great ambiance. Besides there coffee they over a variety of tantalizing cuisine. More so they have the best cakes in Nairobi that goes well with the wide range of coffees available!</string>
+    <string name="c115"> 
+    	No: 0707712287,0724912676\n
+  
     </string>
-    <string name="w115">http://</string>
-    <string name="m115"></string>
+    <string name="w115">http://cafedeli.co.ke</string>
+    <string name="m115">36.82489,-1.28412</string>
 	<!--strings -->
 	
 	
@@ -221,7 +222,7 @@ Tel : 020-4448997, 020-8020087, 020-8082841\n
         
     </string>
     <string name="w21">http://uchumicorporate.co.ke/kenya/</string>
-    <string name="m21"></string>
+    <string name="m21">36.80221,-1.26385</string>
 	<!--strings -->
 	
 	
@@ -234,7 +235,7 @@ Other services available are Pharmacy, an Ice Cream Parlour, Laundry services, a
         
     </string>
     <string name="w22">http://uchumicorporate.co.ke</string>
-    <string name="m22"></string>
+    <string name="m22">36.8028,-1.3206</string>
 	<!--strings -->
 	
 	
@@ -249,7 +250,7 @@ Other services available are pharmacy, insurance brokers, white rose dry cleaner
         
     </string>
     <string name="w23">http://uchumicorporate.co.ke</string>
-    <string name="m23"></string>
+    <string name="m23"36.8222,-1.2862</string>
 	<!--strings -->
 	
 	
@@ -265,7 +266,7 @@ Business hours: 7.30am to 8.45pm
         
     </string>
     <string name="w24">http://uchumicorporate.co.ke</string>
-    <string name="m24"></string>
+    <string name="m24">36.7899,-1.2942</string>
 	<!--strings -->
 	
 	
@@ -279,7 +280,7 @@ Our door is open to foreign customers. You need not worry if you have foreign cu
         
     </string>
     <string name="w25">http://uchumicorporate.co.ke</string>
-    <string name="m25"></string>
+    <string name="m25">36.8252,-1.2856</string>
 	<!--strings -->
 	
 	
@@ -295,7 +296,7 @@ Fax: 7122138\n
         
     </string>
     <string name="w26">http://nakumatt.co.ke</string>
-    <string name="m26"></string>
+    <string name="m26">36.8253,-1.3004</string>
 	<!--strings -->
 	
 	
@@ -308,7 +309,7 @@ Fax: 7122138\n
         
     </string>
     <string name="w27">http://nakumatt.co.ke</string>
-    <string name="m27"></string>
+    <string name="m27">36.80457,-1.25844</string>
 	<!--strings -->
 	
 	
@@ -321,7 +322,7 @@ Fax: 7122138\n
         
     </string>
     <string name="w28">http://nakumatt.co.ke</string>
-    <string name="m28"></string>
+    <string name="m28">36.81821,-1.28124</string>
 	<!--strings -->
 	
 	
@@ -334,7 +335,7 @@ Fax: 7122138\n
         
     </string>
     <string name="w29">http://nakumatt.co.ke</string>
-    <string name="m29"></string>
+    <string name="m29">36.88985,-1.33005</string>
 	<!--strings -->
 	
 	
@@ -347,7 +348,7 @@ Fax: 7122138\n
         
     </string>
     <string name="w210">http://nakumatt.co.ke</string>
-    <string name="m210"></string>
+    <string name="m210">36.76261,-1.29790</string>
 	<!--strings -->
 	
 	
@@ -359,7 +360,7 @@ Email:customercare@tuskys.com\n
         
     </string>
     <string name="w211">http://tuskys.com</string>
-    <string name="m211"></string>
+    <string name="m211">36.819,-1.291</string>
 	<!--strings -->
 	
 	
@@ -370,7 +371,7 @@ Email:customercare@tuskys.com\n
         
     </string>
     <string name="w212">http://tuskys.com</string>
-    <string name="m212"></string>
+    <string name="m212">36.8259,-1.2828</string>
 	<!--strings -->
 	
 	
@@ -381,7 +382,7 @@ Email:customercare@tuskys.com\n
         
     </string>
     <string name="w213">http://tuskys.com</string>
-    <string name="m213"></string>
+    <string name="m213">36.8716,-1.2947</string>
 	<!--strings -->
 	
 	
@@ -392,7 +393,7 @@ Email:customercare@tuskys.com\n
         
     </string>
     <string name="w214">http://tuskys.com</string>
-    <string name="m214"></string>
+    <string name="m214">36.828,-1.277</string>
 	<!--strings -->
 	
 	
@@ -403,8 +404,330 @@ Email:customercare@tuskys.com\n
         
     </string>
     <string name="w215">http://tuskys.com</string>
-    <string name="m215"></string>
+    <string name="m215">36.8583,-1.3165</string>
 	<!--strings -->
+	
+	
+	<!--strings -->    
+<string name="d31">Are you looking for a quality-assured, efficient cab company? Look no further than Focus Cab Services, a company that has earned a reputation for dedication, innovation and excellence. 
+We have an energetic team of young professionals, all geared towards providing you with quality cab services. Our drivers are especially courteous and will ensure the journey to your preferred destination is pleasant and comfortable. Our rates are cost-effective and our fleet of modern vehicles is available 24 hours a day.
+    
+</string>
+    <string name="c31">Mayfair Maisonette, Mpaka Road,Opposite Fedha Plaza,Westlands\n
+        Tel +254 208006620 ; +254713555888\n
+        Email: info@focuscabs.co.ke ;\n
+        
+    </string>
+    <string name="w31">http://focuscabs.co.ke</string>
+    <string name="m31">36.82674,-1.30102</string>
+	<!--strings -->
+	
+	
+	<!--strings -->    
+<string name="d32">Jatco Taxis and Tours Ltd, is the largest taxi company in Nairobi. It caters for private individuals and also corporate clients with excellent service 24 hours daily, 7 days a week 365 days in year! The large fleet of cars are all radio linked with professional drivers who know Nairobi and the surrounding areas intimately. Airport drop off and collections are routine as are guided tours in the specialist vehicles that form part of the fleet.</string>
+    <string name="c32">Address:  3rd Floor Westlands Arcade, Woodvale Grove, Westlands\n
+Phone: +254 (0)733-701494\n 
++254 (0)722-648383\n
+Fax: +254 (0) 20-4446096\n
+        
+        
+    </string>
+    <string name="w32">http://jatcotaxis.com</string>
+    <string name="m32">36.80289,-1.26453</string>
+	<!--strings -->
+	
+	
+	
+<!--strings -->    
+<string name="d33">Simply Just In A Moment Cab Services</string>
+    <string name="c33">Address: Ground Floor, Warwick Centre\n
+United Nations Avenue, Gigiri\n
+P.O. BOX 759-00621\n
+Village Market Nairobi, Kenya   
+Phone: Tel (Landline):+254 20 7121205,+254 20 7122565,\n
++254 20 7120344,+254-714-333-777,254-735-222-224\n
+Mobile:0722 711001, 0722 714246, 0733 735499\n
+Customer Care Direct Line: +254-20-7123404\n
+Accounts And Credit Queries: +254-20-7123402,+254-714-606-28,
++254-736-606-289\n
+Fax: +254 20 7122565+254-714-606-289,+254-736-606-289\n
+Email: info@jimcab.co.ke\n
+        
+        
+    </string>
+    <string name="w33">http://jimcab.co.ke</string>
+    <string name="m33">36.81094,-1.23635</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="d34">
+Half day service(Nairobi): 3500ksh\n
+ Fullday service(Nairobi): 6000ksh\n
+Company fleet: 80 cars\n 
+Main destinations aprox. fares: Jkia-Town (Nairobi). = 1200ksh\n
+    
+</string>
+    <string name="c34">Address:   66771-00800\n
+Phone: +254 20 4440950/1, 0723837891, 0735278856,+254 20 3573702\n
+Email: sales@universalcabs.co.ke\n
+        
+        
+    </string>
+    <string name="w34">http://universalcabs.co.ke</string>
+    <string name="m34"></string>
+	<!--strings -->
+	
+	
+	<!--strings -->    
+<string name="d35">Summit is a 24 Hour Taxi/cab Services. Available where ever at the customers convinience</string>
+    <string name="c35">Address:   Starwood Apartments, Apt No. 3, Argwings Kodhek Road\n
+P.O Box 4032 - 00100 G.P.O Nairobi 044 Kenya\n
+Phone: Tel:+254 20 2716709/+254 20 2712849\n
+Mobile: +254 0720-003222/0735-729001\n
+Email: info@summitsafaris.co.ke\n
+        
+        
+    </string>
+    <string name="35w">http://summitsafaris.co.ke</string>
+    <string name="35m">36.81907,-1.27998</string>
+	<!--strings -->
+	
+	
+	
+<!--strings -->    
+<string name="d41">How many capital cities do you know that have a game Park with lion, rhino, cheetah, giraffe, zebra, buffalo and other wild animals wandering around completely freely? Nairobi has just this, and if you have time, the Nairobi National Park is well worth a visit. Although not on the same scale as other game parks around Kenya, (such as the Maasai Mara, Samburu, Tsavo and Amboseli) the Nairobi National Park is just perfect if you don't have time to get to them, or need something to do while in Nairobi. Early morning or late afternoon are the best times to see animals so why not enjoy a picnic breakfast or sun-downer in the park which you organise yourself or ask a taxi or tour company to arrange for you. The park is surrounded by housing developments, which you can see on the east side of the park. It creates interesting images of rhino grazing happily to a backdrop of urban sprawl.</string>
+    <string name="c41">Address: Kenya Wildlife Service, P.O. Box 40241-00100, Langata\n
+Phone: +254 (0)20 600800\n
+Fax: +254 (0)20 603792\n
+        
+        
+    </string>
+    <string name="w41">http://kws.org/parks/parks_reserves/NANP.html</string>
+    <string name="m41">36.8323,-1.3620</string>
+	<!--strings -->
+	
+	
+	
+<!--strings -->    
+<string name="d42">The Karen Blixen Museum was originally the farm house owned by the Baron Blixen and his wife Karen (who wrote the book and film Out of Africa under her pen name, Isak Dinesen) The coffee farm was bought in 1917 by Baron Blixen and the house itself dates back to 1912. Of their 4500 acre farm, 600 acres were used for coffee farming. The architecture is typical of late 19th century which includes the spacious rooms, verandas, tile roof and stone construction typical of this period. Many original items are in the house which date back to these early days and many items were also featured in the film Out of Africa. The house became part of the National Museums of Kenya in 1985 and is a tranquil place to visit among an expanse of green lawns and gardens which were once the home of Karen Blixen until she returned to her home in Denmark 1931. She affectionately called the house "Bogani" or "Mbogani" meaning a house in the woods and her famous phrase "‘I had a farm in Africa at the foot of the Ngong Hills’ is what you will see when you visit. The Museum is open to the public every day and is gives a wonderfully nostalic look at the lives of these early settlers. Next door are the Karen Blixen Coffee Gardens, and within these gardens are the:</string>
+    <string name="c42">Address:P.O Box 40658- 00100, Karen
+Phone: +254 (0) 20- 8002139
+        
+        
+    </string>
+    <string name="w42">http://karenblixencoffeegarden.com</string>
+    <string name="m42">36.7106,-1.3479</string>
+	<!--strings -->
+	
+	
+	<!--strings -->    
+<string name="d43">Owned by the National Museums of Kenya, and housed within a building that dates back to 1913, the Nairobi Gallery is a very cute and cosy gallery that hosts regular art exhibitions. The buildings is the old Provincial Commissioner's office building and was fondly referred to by the name of 'Hatches, Matches and Dispatches' by the settler community because of the births, marriages and deaths that were recorded here. For those interested in "old Kenya", the Gallery gives a chance for visitors to see some of Nairobi's colonial past dating almost 100 years. With wooden door and window frames, beams in the ceiling the main focal point for this interesting building is the central hallway which is circular with a high domed ceiling. It makes a perfect starting point for any exhibition with 5 rooms leading from it and a wide hall for extra exhibition space.This unique building is right in the heart of Nairobi tucked discreetly away next to, and within the same compound as Nyayo House. It's well worth a visit and the people running the gallery are extremely welcoming and friendly.</string>
+    <string name="c43">Address: Old PC's Building, Kenyatta Avenue, City Centre
+Phone: +254 (0) 20 221 6566
+              + 254 (0) 722 216865 
+Fax: +254 (0) 20 3741424
+        
+        
+    </string>
+    <string name="w43">http://museums.or.ke</string>
+    <string name="m43">36.81795,-1.28611</string>
+	<!--strings -->
+	
+	
+	<!--strings -->    
+<string name="d44">Refurbished in 2009, the museum has an eclectic mix of mainly natural history exhibits together with an small art gallery and various temporary exhibits (often photography. Within the museum, there’s a small shop with interesting pan African artifacts, books and so on. The most exciting and popular exhibition areas would probably be the Early Man gallery which has an excellent exhibition of evolution and the fossilised remains of early man unearthed by the Leakey family (and others) in Turkana, Magadi and other areas of Kenya. The bird exhibition is also something not to miss with its enormous and fascinating collection of stuffed birds; from tiny hummingbirds up to the eagle collection and exotic looking stalks all of which are indigenous to Kenya. There’s an interesting collection of stuffed mammals downstairs, in an attractive room (but rather darkly lit ) with a balcony all around. Life size giraffe, zebra and elephant etc loom over the visitors and some interactive displays are fun for children. A rock art exhibition up stairs is small but interesting and there are also some interesting displays on the cultures of various tribes in Kenya.</string>
+    <string name="c44">Address: Museum Hill , P.O. BOX 40658 - 00100, City Centre
+Phone: +254 (0)20 3741424
+              +254 (0) 733 296142
+Fax: +254 (0) 20 3741424
+        
+        
+    </string>
+    <string name="w44">http://museums.or.ke</string>
+    <string name="m44">36.8140,-1.2716</string>
+	<!--strings -->
+	
+	
+	<!--strings -->    
+<string name="d45">Snake park is within the Nairobi National Museum and has been refurbished. It showcases a wide range of snakes, in hard glass cages therefore perfectly safe when viewing. The museum and Snake Park are open from 8:30 am to 5:30 pm and admission is :non-residents: 800/-ksh (adults) 400/-ksh (under 18)
+East african residents: 400/-ksh (adults) 200/-ksh (under 18)
+Citizens : 100/-ksh (adults) 50/-ksh (under 18)
+      </string>
+    <string name="c45">Address: Museum Hill , P.O. BOX 40658 - 00100, City Centre
+Phone: +254 (0)20 3741424
+              +254 (0) 733 296142
+Fax: +254 (0) 20 3741424
+        
+        
+    </string>
+    <string name="w45">http://museums.or.ke</string>
+    <string name="m45">36.8140,-1.2716</string>
+	<!--strings -->
+	
+	
+	<!--strings -->    
+<string name="d46">This is the place to visit if you want to see crocodiles and ostriches close up. Spread over 30 acres, Mamba Village has lots to offer. It has a man made lake with boats and fairground equipment. There are also camel and horse rides and ostriches that you can feed. There is a giraffe and an excellent collection of crocodiles who snap and leap about in a feeding frenzy when it's dinner time! There's also a collection of rabbits, guinea fowl and other animals that young children might enjoy looking at and stroking
+Other Facilities at Mamba Village is a low key art gallery, and a large restaurant selling Nyama Choma (roasted meat). The food is served at tables with umbrellas outside on the grassy lawns or inside where there is also a bar. At weekends the place gets quite busy and overall Mamba Village is an interesting place which is great to visit with small children. Mamba Village has a nice campsite with clean washrooms and a covered dining room with facilities that are perfect for a group of up to 80 children or 50 adults. Security in the Mamba Village campsite is as good as you can find in Nairobi with a perimeter fence, and guards. There is no campsite shop; however, meals and drinks are available in the main building just about 50 metres away.
+    
+</string>
+    <string name="c46">Address: P.O Box 74760, Langata North Road, Langata
+Phone: +254 (0) 20 890887
+        
+        
+    </string>
+    <string name="w46">http://nairobimamba.com</string>
+    <string name="m46">36.75204,-1.33160</string>
+	<!--strings -->
+	
+	
+	
+	
+	
+	
+	
+	
+	<!--strings -->    
+<string name="d51">The Carnivore is a world famous Restaurant, Entertainment venue and nightclub . Within the complex is a popular nightclub which regularly hosts huge open air concerts of up to 20,000 people, featuring high profile performers from all over the African continent. Located in the same complex as the Carnivore Restaurant, famed for its' game meat menu and great atmosphere, the Carnivore Nightclub attracts people from far and wide and is a cool place to be. The Carnivore nightclub operates from Wednesday to Sunday hosting themed nights to cater for fans of contemporary African music, rock, soul, jazz and the latest hits. Large open air concerts are sometimes held, with local and internationally known performers (Maxi Priest, 'Shaggy', Sean Paul, Brenda Fassi, Salif Keta, Ismael Lo, etc). These events are able to hold up to 20,000 people!With a great cosmopolitan mix of guests, it makes for a really fun night out.</string>
+    <string name="c51">Address: Langata Road, Near Wilson Airport, Langata
+Phone: +254 (0) 20 605933-7
++254 (0) 20 602764
+Fax: +254 (0) 20 602990/3
+        
+        
+    </string>
+    <string name="w51">http://</string>
+    <string name="m51">36.82507,-1.28154</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="d52">K1 Klubhouse is a lively Kenyan club in Parklands. making this somewhere to check out if you like funky music and a high energy atmosphere. In addition to the actual club, there are several bars and other attractions at K1 which you should check out; There are several bars; Heaven has a nice environment for socialising and sharing a drink; a sports bar with big screen and a also a hall of pool tables which is popular for a place to hang out.The balcony overlooking the neighbourhood and trees offers somewhere you can enjoy nature from high, while the in-house spin doctors give sounds to match the mood of the moment. Paradise bar is on the ground floor and offers 10,000 volts of party music together with an amazing dance floor where you can boogie on down. The Pitcher & Butch pub has a modern look and African features.</string>
+    <string name="c52">Address: Parklands Shade Hotel, Ojijo Road, Parklands
+Phone: +254 2 3749870/ 3742149/ 3751310
+Fax: +254 2 3747099
+        
+        
+    </string>
+    <string name="w52">http://</string>
+    <string name="m52">36.8114,-1.2671</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="d53">Rafikiz is a really nice modern bar in Langata. Lovely decor and a great atmosphere. Its striking luminous bar is illuminated and creates a wonderfully welcoming atmosphere as well as being stylish and hip. The music is varied with all the latest African dance hits. Live Music and other entertainments often happens at weekends and sometimes during the week. RaIt's a great place to hang out, meet new friends and enjoy yourself. The atmosphere is predominantly Kenyan, and as the name Rafiki implies (means Friend in Kiswahili), it's a warm and friendly bar and well worth a visit.</string>
+    <string name="53c">Address:  Langata Shopping Centre, Langata Road
+ Phone: 254 (0)733 660485
+        
+        
+    </string>
+    <string name="w53">http://</string>
+    <string name="m53">36.8026</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="d54">Casablanca is a hip Moroccan-style nightclub in a central position of Nairobi, easy to reach from all areas. It attracts travelers, expats and locals and because it’s not huge, it tends to have a very friendly and sociable atmosphere! Late nights/early mornings are practically guaranteed! The club is divided into 3 areas all based on a Bedouin/North African theme: The inner lounge area resembles a Bedouin tent, filled with brightly coloured cushioned seats, Shisha pipes and it has an international atmosphere. It’s a great place to relax, sprawl, socialise and people watch in this smoky atmospheric environment. The dance area and bar is small and intimate, a great place to let go of your inhibitions and dance to the funky mix of local Nairobi dance music and western beats. Outside, a courtyard provides a place to cool down or warm up! People huddle around open firepits in the cool evening air.</string>
+    <string name="c54">Address:  Lenana Road, P.O Box 4289 - 00200, Kilimani
+Phone: +254 (0)20 272 3173
+Fax: +254 (0)20 273 0322
+        
+        
+    </string>
+    <string name="w54">http://</string>
+    <string name="m54">36.7918,-1.2774</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="d55">Taboo is a wonderfully small, intimate nightclub found in the heart of Westlands. It has a dramatic and classy decor with modern furnishings and is tastefully done. There is a DJ exclusively for Taboo and a small stage area so dance acts and music events are a regular feature, especially at weekends. The music is varied and includes all the latest African sounds. This place is a cool place to hand out and enjoy the privacy of it's location which although in a central part of Westlands, is also a private location being upstairs just above Bacchu's Lounge. Taboo is affiliated with two other bars in Nairobi; Bacchu’s Lounge and Rafikiz Bar. </string>
+    <string name="c55">Address:   Woodvale Grove, Westlands
+Phone: 254 (0)733 660485
+        
+        
+    </string>
+    <string name="w55">http://</string>
+    <string name="m55">36.8043,-1.2621/string>
+	<!--strings -->
+	
+	
+	
+	
+
+	
+	
+	
+	<!--strings -->    
+<string name="r61">Stations: Muthurwa Bus Terminus,Maragua Ln /Tom Mboya St Junction (Commercial)\n
+     Route number: 33\n
+     Route: Mombasa road. Hence can be used by persons passing through Mombasa road( Imara, Cabanas, Taj Mall, Pipeline, Fedha and Nyayo Estate)</string>
+   
+    <string name="w61">http://kenyanmathree.wordpress.com/2011/05/14/nairobi-matatu-route-map/</string>
+    <string name="m61">36.8259,-1.2828</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="r62">Stations: Old Nation Hse Roundabout, Tom Mboya St\n
+     Route number: 118\n
+     Route: Can be used by persons going to MP Shah and Westlands</string>
+   
+    <string name="w62">http://kenyanmathree.wordpress.com/2011/05/14/nairobi-matatu-route-map/</string>
+    <string name="m62">36.82623,-1.28476</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="r63">Stations: Odeon Cinema, Latema Rd\n
+     Route number: 23\n
+     Route: Can be used by persons going to Kangemi and Kiambaa.</string>
+   
+    <string name="w63">http://kenyanmathree.wordpress.com/2011/05/14/nairobi-matatu-route-map/</string>
+    <string name="m63">36.8248,-1.2820</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="r64">Stations: Central Bus Station, Temple Rd, off Mfangano St\n
+     Route number: 15\n
+     Route:Can be used by persons going to Carnivore, Southlands, Otiende and Wilson Airport </string>
+    
+    <string name="w64">http://kenyanmathree.wordpress.com/2011/05/14/nairobi-matatu-route-map/</string>
+    <string name="m64">36.82835,-1.28711</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="r65">Stations: Kencom Hse, City Hall Way(via Bomas);Railways, end of Moi Ave (via Ngong Rd)\n
+     Route number: 24/111\n
+     Route: Can be used by persons going to bomas, Lenana school.
+     </string>
+    
+    <string name="w65">http://kenyanmathree.wordpress.com/2011/05/14/nairobi-matatu-route-map/</string>
+    <string name="m65">36.82464,-1.28619</string>
+	<!--strings -->
+	
+	
+	
+	<!--strings -->    
+<string name="r66">Stations: Kencom Hse, City Hall Way\n
+     Route number: 7C\n
+     Route: Can be used by persons going to Kenyatta Hospital, and Community </string>
+   
+    <string name="w66">http://kenyanmathree.wordpress.com/2011/05/14/nairobi-matatu-route-map/</string>
+    <string name="m66">36.82464,-1.28619</string>
+	<!--strings -->	
+	
+
 	<string name = "about">
 	    KaribuNairobi\n
         Developer: Sharon\n
